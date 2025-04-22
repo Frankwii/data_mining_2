@@ -1,0 +1,2849 @@
+CLUSTERING FUNCTIONS AND SORTING THEM BY RARITY...
+
+========CLUSTER 1========
+Outer membrane
+Cell outer membrane
+
+Affected bacteria: Escherichia coli, Salmonella enterica, Shigella flexneri
+========CLUSTER 2========
+Mixed, incl. Virulence, and pathogenesis
+Mixed, incl. Virulence, and cell outer membrane
+Mixed, incl. Protein transport, and Salmonella infection
+Mixed, incl. Virulence, and Protein transport
+Mixed, incl. Virulence, and Activator
+Mixed, incl. Fimbrium biogenesis, and taxis
+Mixed, incl. Virulence, and Shigellosis
+
+Affected bacteria: Pseudomonas aeruginosa, Salmonella enterica, Shigella flexneri
+========CLUSTER 3========
+Hydroxymethyl-, formyl- and related transferase activity
+Peptidoglycan biosynthesis
+Peptidoglycan metabolic process
+Peptidoglycan biosynthetic process
+
+Affected bacteria: Pseudomonas aeruginosa, Staphylococcus aureus, Clostridium botulinum
+========CLUSTER 4========
+Amino sugar and nucleotide sugar metabolism
+
+Affected bacteria: Pseudomonas aeruginosa, Rhodopirellula baltica, Pseudomonas putida, Escherichia coli, Clostridium botulinum
+========CLUSTER 5========
+Glycosyl compound metabolic process
+Carbohydrate derivative catabolic process
+Carbohydrate derivative metabolic process
+
+Affected bacteria: Pseudomonas aeruginosa, Rhodopirellula baltica, Pseudomonas putida, Streptococcus pneumoniae, Staphylococcus aureus, Neisseria meningitidis, Clostridium botulinum, Salmonella enterica, Shigella flexneri
+========CLUSTER 6========
+Two-component system
+Two-component regulatory system
+
+Affected bacteria: Chloroflexus aurantiacus, Vibrio cholerae, Trichormus variabilis, Shigella flexneri
+========CLUSTER 7========
+Pyrimidine metabolism, and purine nucleoside monophosphate biosynthetic process
+Amino-acid biosynthesis, and nucleoside monophosphate metabolic process
+Pyrimidine metabolism, and nucleotide salvage
+Deoxyribonucleotide biosynthetic process, and nucleoside monophosphate phosphorylation
+Nucleoside monophosphate metabolic process, and Pyrimidine metabolism
+Purine metabolism, and pyrimidine nucleoside metabolic process
+Purine ribonucleoside metabolic process, and Pyrimidine metabolism
+
+Affected bacteria: Pseudomonas aeruginosa, Rhodopirellula baltica, Vibrio cholerae, Trichormus variabilis, Neisseria meningitidis, Clostridium botulinum, Salmonella enterica, Shigella flexneri
+========CLUSTER 8========
+Cell shape
+Cell division
+Cell membrane
+Cell envelope
+Plasma membrane
+
+Affected bacteria: Bacillus subtilis, Trichormus variabilis, Chloroflexus aurantiacus, Escherichia coli, Staphylococcus aureus, Clostridium botulinum, Salmonella enterica
+========CLUSTER 9========
+Mixed, incl. MIP18 family-like, and Armadillo
+
+Affected bacteria: Trichormus variabilis
+========CLUSTER 10========
+Purine ribonucleoside metabolic process
+Purine ribonucleotide metabolic process
+Purine ribonucleoside monophosphate metabolic process
+Purine nucleoside metabolic process
+Purine nucleotide metabolic process
+
+Affected bacteria: Listeria monocytogenes, Streptococcus pneumoniae, Neisseria meningitidis, Pseudomonas putida
+========CLUSTER 11========
+Ribonucleoside metabolic process
+Ribonucleoside monophosphate metabolic process
+Ribonucleotide metabolic process
+
+Affected bacteria: Pseudomonas putida, Trichormus variabilis, Neisseria meningitidis, Listeria monocytogenes, Salmonella enterica, Shigella flexneri
+========CLUSTER 12========
+Cytosolic small ribosomal subunit
+Cytosolic large ribosomal subunit
+
+Affected bacteria: Yersinia pestis, Aquifex aeolicus, Rhodopirellula baltica, Geobacter sulfurreducens
+========CLUSTER 13========
+Peptidoglycan-anchor, and Leucine-rich repeat domain superfamily
+Mixed, incl. Peptidoglycan-anchor, and Leucine-rich repeat domain superfamily
+Prokaryotic N-terminal methylation site, and Glycosyltransferase 2-like, prokaryotic type
+Prokaryotic N-terminal methylation motif, and Concanavalin A-like lectin/glucanase domain superfamily
+
+Affected bacteria: Listeria monocytogenes, Trichormus variabilis, Vibrio cholerae
+========CLUSTER 14========
+Pyrimidine nucleoside monophosphate biosynthetic process
+Pyrimidine nucleotide biosynthetic process
+Pyrimidine nucleobase biosynthetic process
+Pyrimidine ribonucleotide biosynthetic process
+
+Affected bacteria: Rhodopirellula baltica, Trichormus variabilis, Shigella flexneri
+========CLUSTER 15========
+Oxoacid metabolic process
+
+Affected bacteria: Geobacter sulfurreducens
+========CLUSTER 16========
+Lactose metabolic process, and Phosphotransferase system, EIIB component, type 3
+6-phospho-beta-glucosidase activity, and Phosphotransferase system, EIIC component, type 3
+
+Affected bacteria: Streptococcus pneumoniae, Shigella flexneri
+========CLUSTER 17========
+Signaling receptor activity
+Phosphorelay sensor kinase activity
+Phosphorelay signal transduction system
+
+Affected bacteria: Rhodopirellula baltica, Vibrio cholerae, Trichormus variabilis, Chloroflexus aurantiacus, Shigella flexneri
+========CLUSTER 18========
+Locomotion, and Bacterial flagellum biogenesis
+Cell motility, and Bacterial flagellum biogenesis
+Locomotion, and bacterial-type flagellum organization
+
+Affected bacteria: Bacillus subtilis, Pseudomonas putida
+========CLUSTER 19========
+Organelle assembly
+Organelle organization
+
+Affected bacteria: Yersinia pestis, Aquifex aeolicus, Geobacter sulfurreducens, Clostridium botulinum
+========CLUSTER 20========
+Mixed, incl. polysaccharide metabolic process, and extracellular region
+
+Affected bacteria: Vibrio cholerae
+========CLUSTER 21========
+Catalytic complex
+Catalytic activity
+
+Affected bacteria: Rhodopirellula baltica, Pseudomonas putida, Vibrio cholerae, Streptococcus pneumoniae, Trichormus variabilis, Yersinia pestis, Chloroflexus aurantiacus, Staphylococcus aureus, Neisseria meningitidis, Clostridium botulinum, Listeria monocytogenes, Salmonella enterica
+========CLUSTER 22========
+Transcription
+Translation
+Kinase
+
+Affected bacteria: Pseudomonas aeruginosa, Sinorhizobium meliloti, Rhodopirellula baltica, Vibrio cholerae, Trichormus variabilis, Geobacter sulfurreducens, Yersinia pestis, Chloroflexus aurantiacus, Neisseria meningitidis, Clostridium botulinum
+========CLUSTER 23========
+External encapsulating structure
+External encapsulating structure organization
+
+Affected bacteria: Escherichia coli, Pseudomonas aeruginosa, Streptococcus pneumoniae, Salmonella enterica
+========CLUSTER 24========
+Immunoglobulin domain
+Immunoglobulin-like fold
+
+Affected bacteria: Escherichia coli, Listeria monocytogenes, Chloroflexus aurantiacus
+========CLUSTER 25========
+Cytoplasm
+Cytosol
+
+Affected bacteria: Pseudomonas aeruginosa, Rhodopirellula baltica, Pseudomonas putida, Geobacter sulfurreducens, Trichormus variabilis, Yersinia pestis, Staphylococcus aureus, Neisseria meningitidis, Clostridium botulinum
+========CLUSTER 26========
+Purine-containing compound salvage
+Heterocyclic compound binding
+Carbohydrate derivative binding
+Organic cyclic compound binding
+
+Affected bacteria: Pseudomonas aeruginosa, Sinorhizobium meliloti, Rhodopirellula baltica, Pseudomonas putida, Trichormus variabilis, Geobacter sulfurreducens, Chloroflexus aurantiacus, Staphylococcus aureus, Neisseria meningitidis
+========CLUSTER 27========
+Catalytic activity, acting on DNA, and DNA replication
+Catalytic activity, acting on RNA
+
+Affected bacteria: Rhodopirellula baltica, Clostridium botulinum
+========CLUSTER 28========
+Magnesium
+Pyridoxal phosphate
+Nickel
+
+Affected bacteria: Pseudomonas aeruginosa, Staphylococcus aureus, Neisseria meningitidis, Clostridium botulinum
+========CLUSTER 29========
+C-5 methylation of cytosine, and S-adenosylmethionine synthetase
+5-methyltetrahydropteroyltri-L-glutamate-dependent methyltransferase activity, and Methionine gamma-lyase
+
+Affected bacteria: Pseudomonas putida, Trichormus variabilis
+========CLUSTER 30========
+Cell adhesion involved in biofilm formation
+Cell adhesion involved in single-species biofilm formation
+
+Affected bacteria: Escherichia coli
+========CLUSTER 31========
+Helix_turn_helix, Lux Regulon
+Signal transduction, and helix_turn_helix, Lux Regulon
+
+Affected bacteria: Chloroflexus aurantiacus, Shigella flexneri
+========CLUSTER 32========
+Response to stimulus
+Response to external stimulus
+
+Affected bacteria: Pseudomonas putida, Vibrio cholerae, Trichormus variabilis, Chloroflexus aurantiacus, Aquifex aeolicus
+========CLUSTER 33========
+Quinone binding
+Quinone
+
+Affected bacteria: Chloroflexus aurantiacus
+========CLUSTER 34========
+Cationic antimicrobial peptide (CAMP) resistance, and intracellular signal transduction
+Cationic antimicrobial peptide (CAMP) resistance, and cellular response to magnesium ion
+
+Affected bacteria: Escherichia coli
+========CLUSTER 35========
+Transcriptional regulatory protein, C terminal
+Transcription regulator LuxR, C-terminal
+
+Affected bacteria: Shigella flexneri, Trichormus variabilis, Vibrio cholerae
+========CLUSTER 36========
+Biofilm formation - Escherichia coli
+Biofilm formation - Vibrio cholerae
+
+Affected bacteria: Escherichia coli, Vibrio cholerae
+========CLUSTER 37========
+Cell adhesion
+Biological adhesion
+Cell motility
+
+Affected bacteria: Escherichia coli, Clostridium botulinum
+========CLUSTER 38========
+Membrane organization, and lipoprotein localization
+Membrane assembly, and lipoprotein transport
+
+Affected bacteria: Pseudomonas aeruginosa, Helicobacter pylori
+========CLUSTER 39========
+Locomotion
+Locomotion, and phosphoric diester hydrolase activity
+Locomotion, and Competence
+
+Affected bacteria: Bacillus subtilis, Pseudomonas putida, Vibrio cholerae, Escherichia coli, Clostridium botulinum
+========CLUSTER 40========
+Transferase activity, transferring glycosyl groups
+Transferase activity, transferring hexosyl groups
+
+Affected bacteria: Rhodopirellula baltica, Trichormus variabilis, Escherichia coli, Salmonella enterica, Shigella flexneri
+========CLUSTER 41========
+Transferase activity, transferring phosphorus-containing groups
+Transferase complex, transferring phosphorus-containing groups
+
+Affected bacteria: Bacillus subtilis, Rhodopirellula baltica, Vibrio cholerae, Trichormus variabilis, Chloroflexus aurantiacus, Staphylococcus aureus, Neisseria meningitidis
+========CLUSTER 42========
+Defense response to virus
+Response to virus
+
+Affected bacteria: Aquifex aeolicus, Trichormus variabilis, Geobacter sulfurreducens
+========CLUSTER 43========
+Cellular response to stress
+Response to stress
+Cellular response to stimulus
+
+Affected bacteria: Rhodopirellula baltica, Vibrio cholerae, Trichormus variabilis, Clostridium botulinum, Shigella flexneri
+========CLUSTER 44========
+Defense response to other organism
+Response to other organism
+Response to biotic stimulus
+
+Affected bacteria: Bacillus subtilis, Trichormus variabilis, Geobacter sulfurreducens, Escherichia coli, Aquifex aeolicus
+========CLUSTER 45========
+Translation, and protein folding
+Translation, and Protein export
+
+Affected bacteria: Pseudomonas aeruginosa, Sinorhizobium meliloti, Rhodopirellula baltica, Geobacter sulfurreducens, Yersinia pestis, Clostridium botulinum
+========CLUSTER 46========
+Structural molecule activity
+Small molecule binding
+
+Affected bacteria: Pseudomonas aeruginosa, Rhodopirellula baltica, Geobacter sulfurreducens, Trichormus variabilis, Yersinia pestis, Chloroflexus aurantiacus, Staphylococcus aureus, Aquifex aeolicus, Neisseria meningitidis, Clostridium botulinum
+========CLUSTER 47========
+Exodeoxyribonuclease activity, producing 5-phosphomonoesters
+Exonuclease activity, active with either ribo- or deoxyribonucleic acids and producing 5-phosphomonoesters
+
+Affected bacteria: Yersinia pestis
+========CLUSTER 48========
+Cell communication
+Cell projection
+Cell projection organization
+Cell projection assembly
+
+Affected bacteria: Bacillus subtilis, Vibrio cholerae, Trichormus variabilis, Escherichia coli, Shigella flexneri
+========CLUSTER 49========
+Carotenoid metabolic process, and oxidoreductase activity, acting on NAD(P)H, oxygen as acceptor
+Oxidoreductase activity, acting on NAD(P)H, quinone or similar compound as acceptor
+
+Affected bacteria: Chloroflexus aurantiacus, Rhodopirellula baltica
+========CLUSTER 50========
+Transcriptional regulatory protein WalR-like, and small molecule sensor activity
+Transcriptional regulatory protein WalR-like, and phosphorelay signal transduction system
+
+Affected bacteria: Trichormus variabilis
+========CLUSTER 51========
+Biofilm formation
+Submerged biofilm formation
+Single-species submerged biofilm formation
+Single-species biofilm formation
+
+Affected bacteria: Escherichia coli
+========CLUSTER 52========
+Diguanylate cyclase
+Nucleotide cyclase
+
+Affected bacteria: Chloroflexus aurantiacus, Vibrio cholerae
+========CLUSTER 53========
+Mixed, incl. Leucine-rich repeat domain superfamily, and cell adhesion
+Mixed, incl. CheW-like domain, and regulation of chemotaxis
+
+Affected bacteria: Listeria monocytogenes, Pseudomonas putida
+========CLUSTER 54========
+Glucose permease domain IIB, and Glycosyl hydrolase, all-beta
+Oligopeptide transmembrane transporter activity, and Oligopeptide/dipeptide ABC transporter, C-terminal
+Glycosyl hydrolase, all-beta
+
+Affected bacteria: Chloroflexus aurantiacus, Listeria monocytogenes, Rhodopirellula baltica, Pseudomonas putida
+========CLUSTER 55========
+Protein of unknown function DUF1501
+Domain of unknown function DUF1549
+Domain of unknown function DUF1553
+
+Affected bacteria: Rhodopirellula baltica
+========CLUSTER 56========
+Protein of unknown function (DUF1549)
+Protein of unknown function (DUF1553)
+Protein of unknown function (DUF1501)
+
+Affected bacteria: Rhodopirellula baltica
+========CLUSTER 57========
+Cell projection organization, and Chemotaxis
+Cell cycle, and cell division site
+Cell motility, and cell projection organization
+
+Affected bacteria: Aquifex aeolicus, Clostridium botulinum
+========CLUSTER 58========
+Flagellar assembly, and Plasmid
+Virulence, and Plasmid
+
+Affected bacteria: Yersinia pestis
+========CLUSTER 59========
+Chemotaxis
+Bacterial chemotaxis
+
+Affected bacteria: Chloroflexus aurantiacus, Pseudomonas putida, Trichormus variabilis, Vibrio cholerae
+========CLUSTER 60========
+Intracellular signal transduction, and GGDEF domain
+Signaling, and GGDEF domain
+
+Affected bacteria: Vibrio cholerae, Shigella flexneri
+========CLUSTER 61========
+Glycoside hydrolase, family 13, N-terminal
+Glycosyl hydrolase, family 13, catalytic domain
+
+Affected bacteria: Chloroflexus aurantiacus, Rhodopirellula baltica
+========CLUSTER 62========
+Phytochrome chromophore attachment domain
+Porphyrin and chlorophyll metabolism
+
+Affected bacteria: Trichormus variabilis, Clostridium botulinum
+========CLUSTER 63========
+Signal transduction
+Intracellular signal transduction
+
+Affected bacteria: Rhodopirellula baltica, Vibrio cholerae, Trichormus variabilis, Chloroflexus aurantiacus, Shigella flexneri
+========CLUSTER 64========
+Ribosome, and transcription, DNA-templated
+Transcription, DNA-templated
+Translation, and transcription, DNA-templated
+
+Affected bacteria: Sinorhizobium meliloti, Aquifex aeolicus, Neisseria meningitidis
+========CLUSTER 65========
+Small ribosomal subunit, and structural constituent of ribosome
+Structural constituent of ribosome
+
+Affected bacteria: Pseudomonas aeruginosa, Sinorhizobium meliloti, Rhodopirellula baltica, Geobacter sulfurreducens, Yersinia pestis, Aquifex aeolicus, Neisseria meningitidis, Clostridium botulinum
+========CLUSTER 66========
+Mixed, incl. Transcription activator MutR, C-terminal, and Internalin I, Ig-like domain
+Mixed, incl. Histidine kinase BarA, N-terminal, and Histidine kinase receptor ArcB, transmembrane domain
+
+Affected bacteria: Listeria monocytogenes, Vibrio cholerae
+========CLUSTER 67========
+Putative diguanylate phosphodiesterase, and diguanylate cyclase activity
+Putative diguanylate phosphodiesterase
+
+Affected bacteria: Shigella flexneri
+========CLUSTER 68========
+Anion binding
+Ion binding
+Cation binding
+
+Affected bacteria: Rhodopirellula baltica, Vibrio cholerae, Trichormus variabilis, Chloroflexus aurantiacus, Staphylococcus aureus, Neisseria meningitidis
+========CLUSTER 69========
+Nickel transport
+Nickel cation binding
+Nickel cation transport
+
+Affected bacteria: Staphylococcus aureus
+========CLUSTER 70========
+Metal ion binding
+Metal-binding
+
+Affected bacteria: Staphylococcus aureus, Rhodopirellula baltica, Neisseria meningitidis
+========CLUSTER 71========
+PAS fold-3
+PAS fold-4
+
+Affected bacteria: Chloroflexus aurantiacus, Rhodopirellula baltica, Trichormus variabilis
+========CLUSTER 72========
+Signal transduction response regulator, receiver domain
+Signal transduction histidine kinase-related protein, C-terminal
+Signal transduction response regulator, C-terminal effector
+
+Affected bacteria: Rhodopirellula baltica, Vibrio cholerae, Trichormus variabilis, Chloroflexus aurantiacus, Shigella flexneri
+========CLUSTER 73========
+Diguanylate cyclase, and cyclic-guanylate-specific phosphodiesterase activity
+Diguanylate cyclase activity, and cyclic-guanylate-specific phosphodiesterase activity
+
+Affected bacteria: Escherichia coli
+========CLUSTER 74========
+Histidine kinase-like ATPases
+Histidine kinase/HSP90-like ATPase
+Histidine kinase/HSP90-like ATPase superfamily
+Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase
+
+Affected bacteria: Chloroflexus aurantiacus, Rhodopirellula baltica, Trichormus variabilis, Vibrio cholerae
+========CLUSTER 75========
+cheY-homologous receiver domain, and Domain present in phytochromes and cGMP-specific phosphodiesterases.
+Domain present in phytochromes and cGMP-specific phosphodiesterases.
+
+Affected bacteria: Chloroflexus aurantiacus, Rhodopirellula baltica, Trichormus variabilis
+========CLUSTER 76========
+Domain of unknown function DUF1553, and Protein of unknown function DUF1501
+Domain of unknown function DUF1549, and Protein of unknown function DUF1501
+
+Affected bacteria: Rhodopirellula baltica
+========CLUSTER 77========
+DNA metabolic process, and nucleoid
+DNA metabolic process, and chromosome segregation
+
+Affected bacteria: Staphylococcus aureus
+========CLUSTER 78========
+PAS domain
+GAF domain
+GGDEF domain
+
+Affected bacteria: Chloroflexus aurantiacus, Rhodopirellula baltica, Trichormus variabilis, Vibrio cholerae
+========CLUSTER 79========
+Dipeptide transmembrane transporter activity, and transporter complex
+Polyamine binding, and polyamine transmembrane transporter activity
+Dipeptide transmembrane transporter activity, and peptide transport
+
+Affected bacteria: Chloroflexus aurantiacus, Clostridium botulinum
+========CLUSTER 80========
+Regulation of translation
+Regulation of gene expression
+
+Affected bacteria: Trichormus variabilis, Geobacter sulfurreducens
+========CLUSTER 81========
+Regulation of RNA metabolic process
+Regulation of nitrogen compound metabolic process
+
+Affected bacteria: Trichormus variabilis, Shigella flexneri
+========CLUSTER 82========
+Regulation of cellular metabolic process
+Regulation of primary metabolic process
+Regulation of macromolecule metabolic process
+Regulation of metabolic process
+Regulation of cellular macromolecule biosynthetic process
+
+Affected bacteria: Trichormus variabilis
+========CLUSTER 83========
+Regulation of biological process
+Regulation of cellular process
+
+Affected bacteria: Rhodopirellula baltica, Vibrio cholerae, Trichormus variabilis, Chloroflexus aurantiacus, Shigella flexneri
+========CLUSTER 84========
+Type II protein secretion system complex
+Type II protein secretion system complex, and Type IV leader peptidase family
+
+Affected bacteria: Escherichia coli
+========CLUSTER 85========
+Transferase
+Transferase complex
+Transferase activity
+
+Affected bacteria: Bacillus subtilis, Pseudomonas aeruginosa, Rhodopirellula baltica, Pseudomonas putida, Vibrio cholerae, Trichormus variabilis, Chloroflexus aurantiacus, Staphylococcus aureus, Neisseria meningitidis, Clostridium botulinum, Salmonella enterica, Shigella flexneri
+========CLUSTER 86========
+Phosphopantetheine attachment site
+Phosphopantetheine
+
+Affected bacteria: Rhodopirellula baltica
+========CLUSTER 87========
+DNA recombination, and regulation of DNA repair
+DNA damage, and DNA polymerase complex
+DNA damage, and DNA-dependent DNA replication
+
+Affected bacteria: Staphylococcus aureus, Pseudomonas aeruginosa, Clostridium botulinum
+========CLUSTER 88========
+Mostly uncharacterized, incl. Phage P2 GpU, and Tail protein I
+Mostly uncharacterized, incl. Bacterial general secretion pathway protein G-type pilin, and DPM1-like
+Mostly uncharacterized, incl. PA2201-like, C-terminal, and Phage protein GP46
+Mostly uncharacterized, incl. Amidohydrolase, and Thermostable hemolysin
+Mostly uncharacterized, incl. Restriction/modification DNA-methylase, and AAA domain
+Mostly uncharacterized, incl. Chalcone isomerase, and Photolyase PhrB-like
+Mostly uncharacterized, incl. Nucleotide-diphospho-sugar transferases, and PA2201-like, C-terminal
+Mostly uncharacterized, incl. recombinase activity, and ComB-like
+Mostly uncharacterized, incl. PA2201-like, C-terminal, and Baseplate protein J-like
+Mostly uncharacterized, incl. Terminase RNAseH like domain, and YqbF domain superfamily
+Mostly uncharacterized, incl. Portal protein, and Peptidase M15C
+Mostly uncharacterized, incl. conjugation, and TIR domain
+
+Affected bacteria: Bacillus subtilis, Pseudomonas putida, Geobacter sulfurreducens, Listeria monocytogenes, Helicobacter pylori
+========CLUSTER 89========
+Carboxypeptidase activity
+Carboxypeptidase
+
+Affected bacteria: Clostridium botulinum
+========CLUSTER 90========
+Signal transduction histidine kinase, dimerisation/phosphoacceptor domain superfamily
+Signal transduction histidine kinase, dimerisation/phosphoacceptor domain
+Signal transduction histidine kinase, phosphotransfer (Hpt) domain
+
+Affected bacteria: Chloroflexus aurantiacus, Rhodopirellula baltica, Trichormus variabilis, Vibrio cholerae
+========CLUSTER 91========
+DNA-directed 5-3 RNA polymerase activity
+RNA polymerase
+DNA restriction-modification system
+DNA-directed RNA polymerase
+
+Affected bacteria: Bacillus subtilis, Sinorhizobium meliloti, Rhodopirellula baltica, Trichormus variabilis
+========CLUSTER 92========
+NAD(P)+ transhydrogenase activity
+DNA helicase complex
+NADH dehydrogenase activity
+DNA polymerase III complex
+NADH dehydrogenase (ubiquinone) activity
+NAD(P)+ transhydrogenase activity, and NAD kinase
+NADH dehydrogenase (quinone) activity
+NADH dehydrogenase complex
+
+Affected bacteria: Chloroflexus aurantiacus, Rhodopirellula baltica, Neisseria meningitidis, Clostridium botulinum
+========CLUSTER 93========
+WD40 repeats
+WD40 repeat
+
+Affected bacteria: Rhodopirellula baltica
+========CLUSTER 94========
+RNA binding
+DNA repair
+DNA-binding
+rRNA binding
+RNA-binding
+DNA binding
+rRNA-binding
+
+Affected bacteria: Pseudomonas aeruginosa, Sinorhizobium meliloti, Rhodopirellula baltica, Geobacter sulfurreducens, Trichormus variabilis, Yersinia pestis, Aquifex aeolicus, Neisseria meningitidis, Clostridium botulinum
+========CLUSTER 95========
+ATP-binding
+ATP binding
+
+Affected bacteria: Rhodopirellula baltica, Trichormus variabilis, Chloroflexus aurantiacus, Staphylococcus aureus, Neisseria meningitidis
+========CLUSTER 96========
+Ribosomal protein, and translation factor activity, RNA binding
+Translation factor activity, RNA binding
+
+Affected bacteria: Yersinia pestis, Geobacter sulfurreducens
+========CLUSTER 97========
+Translation, and RNA biosynthetic process
+Translation, and RNA modification
+Translation, and RNA metabolic process
+
+Affected bacteria: Neisseria meningitidis, Geobacter sulfurreducens
+========CLUSTER 98========
+Lactose metabolism, and lactose transport
+Carbohydrate metabolic process, and carbohydrate transport
+
+Affected bacteria: Streptococcus pneumoniae
+========CLUSTER 99========
+Bacterial-type flagellum hook, and bacterial-type flagellum basal body, distal rod
+Bacterial-type flagellum hook, and Armadillo
+
+Affected bacteria: Escherichia coli, Bacillus subtilis
+========CLUSTER 100========
+Diguanylate cyclase, GGDEF domain
+Diguanylate cyclase, GGDEF domain, and cyclic-guanylate-specific phosphodiesterase activity
+
+Affected bacteria: Chloroflexus aurantiacus, Escherichia coli, Vibrio cholerae
+========CLUSTER 101========
+Flagellar assembly, and signal transduction
+Flagellar assembly, and taxis
+
+Affected bacteria: Yersinia pestis, Aquifex aeolicus, Shigella flexneri
+========CLUSTER 102========
+Mixed, incl. C-5 cytosine methyltransferase, and Restriction/modification DNA-methylase
+Mixed, incl. PAS fold, and Histidine Phosphotransfer domain
+Mixed, incl. C-5 cytosine methyltransferase, and rRNA base methylation
+Mixed, incl. PglZ domain, and DNA methylase, adenine-specific
+
+Affected bacteria: Helicobacter pylori, Geobacter sulfurreducens, Vibrio cholerae
+========CLUSTER 103========
+PAS-associated, C-terminal, and Hpt domain
+PAS-associated, C-terminal, and EAL domain
+PAS-associated, C-terminal, and negative regulation of phosphorylation
+PAS-associated, C-terminal, and cheY-homologous receiver domain
+
+Affected bacteria: Trichormus variabilis
+========CLUSTER 104========
+CheW-like domain superfamily
+CheY-like superfamily
+
+Affected bacteria: Rhodopirellula baltica, Vibrio cholerae, Trichormus variabilis, Chloroflexus aurantiacus, Shigella flexneri
+========CLUSTER 105========
+Glycosidase
+Glycoside hydrolase superfamily
+Glycosyl transferase family 2
+Glycosyltransferase 2-like
+Glycosyltransferase
+
+Affected bacteria: Bacillus subtilis, Rhodopirellula baltica, Streptococcus pneumoniae, Trichormus variabilis, Chloroflexus aurantiacus, Escherichia coli, Listeria monocytogenes, Salmonella enterica, Shigella flexneri
+========CLUSTER 106========
+Non-membrane-bounded organelle
+Intracellular non-membrane-bounded organelle
+Intracellular organelle
+
+Affected bacteria: Pseudomonas aeruginosa, Sinorhizobium meliloti, Rhodopirellula baltica, Pseudomonas putida, Geobacter sulfurreducens, Yersinia pestis, Aquifex aeolicus, Neisseria meningitidis, Clostridium botulinum
+========CLUSTER 107========
+Ligase
+Ligase activity
+
+Affected bacteria: Pseudomonas aeruginosa, Rhodopirellula baltica, Neisseria meningitidis, Clostridium botulinum
+========CLUSTER 108========
+GGDEF domain, and CheY-like superfamily
+PAS domain, and GAF-like domain superfamily
+PAS fold-4, and GAF-like domain superfamily
+
+Affected bacteria: Rhodopirellula baltica, Vibrio cholerae
+========CLUSTER 109========
+WD40-repeat-containing domain superfamily
+GAF-like domain superfamily
+PAS domain superfamily
+
+Affected bacteria: Chloroflexus aurantiacus, Rhodopirellula baltica, Trichormus variabilis
+========CLUSTER 110========
+Large ribosomal subunit, and Ribosomal protein
+Small ribosomal subunit, and Ribosomal protein
+
+Affected bacteria: Pseudomonas aeruginosa, Sinorhizobium meliloti
+========CLUSTER 111========
+Protein kinase domain
+Kinase activity
+Protein kinase activity
+Protein histidine kinase activity
+
+Affected bacteria: Chloroflexus aurantiacus, Rhodopirellula baltica, Trichormus variabilis, Vibrio cholerae
+========CLUSTER 112========
+Protein phosphorylation
+Phosphorylation
+
+Affected bacteria: Chloroflexus aurantiacus, Rhodopirellula baltica, Trichormus variabilis, Vibrio cholerae
+========CLUSTER 113========
+Peptidyl-histidine phosphorylation
+Nucleoside diphosphate phosphorylation
+
+Affected bacteria: Rhodopirellula baltica, Vibrio cholerae, Trichormus variabilis, Chloroflexus aurantiacus, Yersinia pestis
+========CLUSTER 114========
+Endonuclease activity
+Exonuclease activity
+Nuclease activity
+
+Affected bacteria: Yersinia pestis, Staphylococcus aureus, Clostridium botulinum
+========CLUSTER 115========
+Exonuclease
+Nuclease
+
+Affected bacteria: Yersinia pestis, Clostridium botulinum
+========CLUSTER 116========
+Ribosome assembly
+Ribosomal large subunit biogenesis
+Ribosome biogenesis
+
+Affected bacteria: Rhodopirellula baltica, Geobacter sulfurreducens
+========CLUSTER 117========
+Histidine Phosphotransfer domain
+Histidine kinase domain
+
+Affected bacteria: Chloroflexus aurantiacus, Rhodopirellula baltica, Trichormus variabilis, Vibrio cholerae
+========CLUSTER 118========
+Hydrolase
+Phosphoric diester hydrolase activity
+Hydrolase activity
+
+Affected bacteria: Staphylococcus aureus, Rhodopirellula baltica, Clostridium botulinum, Shigella flexneri
+========CLUSTER 119========
+Hydrolase activity, acting on glycosyl bonds
+Hydrolase activity, hydrolyzing O-glycosyl compounds
+Hydrolase activity, acting on ester bonds
+
+Affected bacteria: Listeria monocytogenes, Rhodopirellula baltica, Clostridium botulinum
+========CLUSTER 120========
+Initiation factor, and Ribosomal protein S13
+Cytoplasmic translation, and Ribosomal protein L18
+
+Affected bacteria: Yersinia pestis, Geobacter sulfurreducens
+========CLUSTER 121========
+Nucleoside-triphosphatase activity
+Nucleotidyltransferase
+Nucleotidyltransferase activity
+
+Affected bacteria: Staphylococcus aureus, Sinorhizobium meliloti, Rhodopirellula baltica, Neisseria meningitidis
+========CLUSTER 122========
+Aminoacyl-tRNA synthetase
+aminoacyl-tRNA ligase activity
+Aminoacyl-tRNA ligase activity
+
+Affected bacteria: Rhodopirellula baltica, Neisseria meningitidis
+========CLUSTER 123========
+Starch and sucrose metabolism, and galactose metabolic process
+Starch and sucrose metabolism, and lactose metabolic process
+Starch and sucrose metabolism, and Sugar transport
+
+Affected bacteria: Staphylococcus aureus, Streptococcus pneumoniae, Salmonella enterica
+========CLUSTER 124========
+Mixed, incl. DNA replication, and DNA duplex unwinding
+Mixed, incl. RNA polymerase activity, and Transcription termination
+Mixed, incl. DNA repair, and DNA polymerase activity
+Mixed, incl. alkaline phosphatase activity, and DNA restriction-modification system
+
+Affected bacteria: Yersinia pestis, Salmonella enterica, Sinorhizobium meliloti, Rhodopirellula baltica
+========CLUSTER 125========
+Ribonucleoprotein, and translation regulator activity
+Ribosomal protein, and translation regulator activity
+Ribosome, and translation regulator activity
+
+Affected bacteria: Pseudomonas aeruginosa, Sinorhizobium meliloti, Rhodopirellula baltica, Geobacter sulfurreducens, Neisseria meningitidis, Clostridium botulinum
+========CLUSTER 126========
+Large ribosomal subunit rRNA binding
+Small ribosomal subunit, and mRNA binding
+Large ribosomal subunit, and large ribosomal subunit rRNA binding
+
+Affected bacteria: Pseudomonas aeruginosa, Sinorhizobium meliloti, Rhodopirellula baltica
+========CLUSTER 127========
+Small ribosomal subunit
+Large ribosomal subunit
+
+Affected bacteria: Pseudomonas aeruginosa, Sinorhizobium meliloti, Rhodopirellula baltica, Geobacter sulfurreducens, Yersinia pestis, Aquifex aeolicus, Neisseria meningitidis, Clostridium botulinum
+========CLUSTER 128========
+Enterobacterial common antigen metabolic process, and protein N-linked glycosylation
+Enterobacterial common antigen metabolic process, and Polyketide sugar unit biosynthesis
+
+Affected bacteria: Pseudomonas aeruginosa, Salmonella enterica, Shigella flexneri
+========CLUSTER 129========
+Mixed, incl. protein import, and GAD domain
+Mixed, incl. Ribosomal protein S9, and Ribosomal protein L9
+Mixed, incl. ribosome assembly, and Ribosomal protein L3
+Mixed, incl. trans-translation, and Initiation factor
+Mixed, incl. cytosolic small ribosomal subunit, and Ribosomal L28 family
+Mixed, incl. 5S rRNA binding, and large ribosomal subunit rRNA binding
+Mixed, incl. cytosolic small ribosomal subunit, and Ribosomal protein S9
+
+Affected bacteria: Pseudomonas aeruginosa, Rhodopirellula baltica, Pseudomonas putida, Geobacter sulfurreducens, Yersinia pestis
+========CLUSTER 130========
+Mixed, incl. Bacteriophage Mu-like, Gp48, and Protein of unknown function DUF2634
+Mixed, incl. Bacteriophage lambda, GpA, and Phage portal protein, lambda family
+Mixed, incl. Domain of unknown function DUF1549, and Protein of unknown function DUF1501
+
+Affected bacteria: Bacillus subtilis, Rhodopirellula baltica, Pseudomonas putida
+========CLUSTER 131========
+PAS domain, and Hpt domain
+PAS domain, and Cache domain
+
+Affected bacteria: Chloroflexus aurantiacus
+========CLUSTER 132========
+Signal transduction histidine kinase, dimerisation/phosphoacceptor domain, and Nucleotide cyclase
+Signal transduction histidine kinase, dimerisation/phosphoacceptor domain, and diguanylate cyclase
+
+Affected bacteria: Chloroflexus aurantiacus, Rhodopirellula baltica
+========CLUSTER 133========
+Signal transduction, and Nucleotide cyclase
+Phosphorelay signal transduction system, and Nucleotide cyclase
+Mixed, incl. phosphorelay signal transduction system, and Nucleotide cyclase
+Signal transduction, and diguanylate cyclase
+
+Affected bacteria: Chloroflexus aurantiacus, Rhodopirellula baltica, Trichormus variabilis
+========CLUSTER 134========
+O-Antigen nucleotide sugar biosynthesis, and polysaccharide biosynthetic process
+O-Antigen nucleotide sugar biosynthesis, and polysaccharide transport
+O-Antigen nucleotide sugar biosynthesis, and Lipopolysaccharide biosynthesis
+
+Affected bacteria: Pseudomonas aeruginosa, Clostridium botulinum
+========CLUSTER 135========
+O-Antigen nucleotide sugar biosynthesis, and protein tyrosine kinase activity
+O-Antigen nucleotide sugar biosynthesis, and phosphomannomutase activity
+
+Affected bacteria: Pseudomonas putida, Clostridium botulinum
+========CLUSTER 136========
+PAS domain, and diguanylate cyclase
+Histidine kinase domain, and Nucleotide cyclase
+
+Affected bacteria: Chloroflexus aurantiacus, Trichormus variabilis
+========CLUSTER 137========
+Mixed, incl. Transcriptional regulatory protein, C terminal, and Virulence
+Mixed, incl. Virulence, and Transcriptional regulatory protein, C terminal
+
+Affected bacteria: Vibrio cholerae
+========CLUSTER 138========
+His Kinase A (phosphoacceptor) domain
+His Kinase A (phospho-acceptor) domain
+
+Affected bacteria: Chloroflexus aurantiacus, Rhodopirellula baltica, Trichormus variabilis, Vibrio cholerae
+========CLUSTER 139========
+ABC transporters, and tetrapyrrole biosynthetic process
+ABC transporters
+
+Affected bacteria: Salmonella enterica, Clostridium botulinum
+========CLUSTER 140========
+GGDEF domain, and cheY-homologous receiver domain
+His Kinase A (phosphoacceptor) domain, and cheY-homologous receiver domain
+cheY-homologous receiver domain, and Histidine kinase domain
+
+Affected bacteria: Chloroflexus aurantiacus, Trichormus variabilis, Vibrio cholerae
+========CLUSTER 141========
+WxL domain, and Internalin I, Ig-like domain
+GGDEF domain, and His Kinase A (phospho-acceptor) domain
+Histidine kinase domain, and GGDEF domain
+
+Affected bacteria: Listeria monocytogenes, Trichormus variabilis, Vibrio cholerae
+========CLUSTER 142========
+Mixed, incl. Biofilm formation - Vibrio cholerae, and O-Antigen nucleotide sugar biosynthesis
+Mixed, incl. Biofilm formation - Escherichia coli, and Cationic antimicrobial peptide (CAMP) resistance
+Mixed, incl. Biofilm formation - Vibrio cholerae, and DNA integration
+
+Affected bacteria: Escherichia coli, Vibrio cholerae
+========CLUSTER 143========
+Motor activity, and bacterial-type flagellum basal body, rod
+Bacterial flagellum protein export, and bacterial-type flagellum basal body
+Bacterial-type flagellum-dependent swarming motility, and bacterial-type flagellum basal body, rod
+Bacterial-type flagellum-dependent swarming motility, and bacterial-type flagellum basal body
+
+Affected bacteria: Escherichia coli, Clostridium botulinum
+========CLUSTER 144========
+Bacterial-type flagellum basal body, and Bacterial flagellum biogenesis
+Bacterial flagellum, and Bacterial flagellum biogenesis
+
+Affected bacteria: Pseudomonas putida, Aquifex aeolicus, Clostridium botulinum
+========CLUSTER 145========
+Mixed, incl. amino sugar metabolic process, and GlmS/FrlB, SIS domain 2
+N-acetylglucosamine metabolic process, and GlmS/FrlB, SIS domain 2
+
+Affected bacteria: Rhodopirellula baltica
+========CLUSTER 146========
+Porin activity
+Porin
+
+Affected bacteria: Escherichia coli, Shigella flexneri
+========CLUSTER 147========
+Mixed, incl. locomotion, and cell communication
+Mixed, incl. Septation, and cell division site
+
+Affected bacteria: Bacillus subtilis, Streptococcus pneumoniae
+========CLUSTER 148========
+Pilus organization
+Pilus assembly
+Pilus
+
+Affected bacteria: Escherichia coli, Pseudomonas aeruginosa, Vibrio cholerae, Shigella flexneri
+========CLUSTER 149========
+Mixed, incl. dipeptide transmembrane transporter activity, and ATPase-coupled nickel transmembrane transporter activity
+Mixed, incl. carbohydrate binding, and ATPase-coupled carbohydrate transmembrane transporter activity
+
+Affected bacteria: Staphylococcus aureus, Salmonella enterica
+========CLUSTER 150========
+Biosynthesis of amino acids
+Biosynthesis of secondary metabolites
+
+Affected bacteria: Pseudomonas aeruginosa, Pseudomonas putida, Streptococcus pneumoniae, Geobacter sulfurreducens, Neisseria meningitidis, Salmonella enterica, Shigella flexneri
+========CLUSTER 151========
+Pilus, and Fimbrium biogenesis
+Fimbrium, and Fimbrium biogenesis
+Fimbrium biogenesis
+
+Affected bacteria: Escherichia coli
+========CLUSTER 152========
+Flagella basal body rod protein
+Bacterial flagellum protein export
+Bacterial flagellum biogenesis
+
+Affected bacteria: Bacillus subtilis, Pseudomonas putida, Vibrio cholerae
+========CLUSTER 153========
+Flagellar assembly
+Flagellar rotation
+
+Affected bacteria: Bacillus subtilis, Pseudomonas putida, Vibrio cholerae, Geobacter sulfurreducens, Escherichia coli, Yersinia pestis, Aquifex aeolicus, Clostridium botulinum
+========CLUSTER 154========
+Bacterial flagellum
+Gram-negative-bacterium-type cell outer membrane assembly
+Bacterial-type flagellum assembly
+Bacterial-type flagellum hook
+Bacterial-type flagellum basal body
+Bacterial-type flagellum organization
+Flagellum
+Bacterial-type flagellum
+
+Affected bacteria: Bacillus subtilis, Pseudomonas putida, Vibrio cholerae, Geobacter sulfurreducens, Escherichia coli, Yersinia pestis, Aquifex aeolicus, Clostridium botulinum, Salmonella enterica
+========CLUSTER 155========
+Bacterial-type flagellum-dependent cell motility
+Bacterial-type flagellum-dependent swarming motility
+
+Affected bacteria: Bacillus subtilis, Pseudomonas putida, Vibrio cholerae, Geobacter sulfurreducens, Escherichia coli, Aquifex aeolicus, Clostridium botulinum
+========CLUSTER 156========
+Glucan catabolic process, and 4-alpha-glucanotransferase
+Glucan metabolic process, and Alpha-amylase domain
+
+Affected bacteria: Trichormus variabilis, Vibrio cholerae
+========CLUSTER 157========
+Mixed, incl. spore wall, and Myb domain
+Mixed, incl. pilus organization, and RHS Repeat
+
+Affected bacteria: Escherichia coli, Bacillus subtilis
+========CLUSTER 158========
+Carbon metabolism, and Valine, leucine and isoleucine biosynthesis
+Citrate cycle (TCA cycle), and Valine, leucine and isoleucine biosynthesis
+
+Affected bacteria: Geobacter sulfurreducens
+========CLUSTER 159========
+Mixed, incl. Transcription activator MutR, C-terminal, and LPXTG cell wall anchor motif
+Mixed, incl. Glycosyl transferase, family 1, and NADP+ binding
+
+Affected bacteria: Listeria monocytogenes, Pseudomonas putida
+========CLUSTER 160========
+Mixed, incl. response to virus, and Integrase core domain
+Mixed, incl. response to virus, and WYL domain
+Mixed, incl. defense response, and Integrase core domain
+
+Affected bacteria: Trichormus variabilis, Geobacter sulfurreducens
+========CLUSTER 161========
+Extracellular polysaccharide metabolic process, and NADP+ binding
+Mixed, incl. extracellular polysaccharide metabolic process, and NADP+ binding
+
+Affected bacteria: Salmonella enterica
+========CLUSTER 162========
+Pilus organization, and Fimbrial protein
+Mixed, incl. pilus organization, and Transposase DDE domain
+Mixed, incl. pilus organization, and Fimbrial protein
+
+Affected bacteria: Escherichia coli, Shigella flexneri
+========CLUSTER 163========
+Mixed, incl. Flagellar assembly, and regulation of cellular process
+Mixed, incl. pilus organization, and Antiviral defense
+Mixed, incl. pilus organization, and regulation of molecular function
+Mixed, incl. pilus organization, and interspecies interaction between organisms
+
+Affected bacteria: Escherichia coli, Aquifex aeolicus, Shigella flexneri
+========CLUSTER 164========
+Mixed, incl. RNA polymerase, and HHH domain 9
+Mixed, incl. IucA / IucC family, and Pyridoxal-phosphate binding site
+
+Affected bacteria: Trichormus variabilis
+========CLUSTER 165========
+Mixed, incl. Histidine Phosphotransfer domain, and Flagellar regulatory protein FleQ
+Mixed, incl. Response regulator receiver domain, and GGDEF domain
+Mixed, incl. HAMP domain, and Flagellar regulatory protein FleQ
+
+Affected bacteria: Chloroflexus aurantiacus, Rhodopirellula baltica, Shigella flexneri
+========CLUSTER 166========
+Mixed, incl. DNA integration, and AAA-like domain
+Mixed, incl. GGDEF domain, and Hpt domain
+
+Affected bacteria: Bacillus subtilis, Shigella flexneri
+========CLUSTER 167========
+Mixed, incl. Fimbrium, and type II protein secretion system complex
+Mixed, incl. secretion, and Type II/IV secretion system protein
+Mixed, incl. Bacterial secretion system, and Type II/IV secretion system protein
+Mixed, incl. Fimbrium biogenesis, and type II protein secretion system complex
+
+Affected bacteria: Pseudomonas aeruginosa, Geobacter sulfurreducens
+========CLUSTER 168========
+Mixed, incl. secretion, and MxiM superfamily
+Mixed, incl. Cell inner membrane, and tRNA 5-leader removal
+Mixed, incl. outer membrane, and Clostripain family
+
+Affected bacteria: Chloroflexus aurantiacus, Clostridium botulinum, Shigella flexneri
+========CLUSTER 169========
+Porphyrin and chlorophyll metabolism, and isoprenoid biosynthetic process
+Porphyrin and chlorophyll metabolism, and hydrogen sulfide metabolic process
+
+Affected bacteria: Chloroflexus aurantiacus
+========CLUSTER 170========
+Teichoic acid biosynthesis, and teichuronic acid metabolic process
+Polyketide sugar unit biosynthesis, and teichoic acid metabolic process
+Polyketide sugar unit biosynthesis, and Glycosyl transferase family 2
+Polyketide sugar unit biosynthesis, and Galactose metabolism
+Colanic acid metabolic process, and Exopolysaccharide synthesis
+
+Affected bacteria: Bacillus subtilis, Pseudomonas aeruginosa, Pseudomonas putida, Listeria monocytogenes, Salmonella enterica, Shigella flexneri
+========CLUSTER 171========
+Glycine, serine and threonine metabolism
+Cysteine and methionine metabolism
+Glyoxylate and dicarboxylate metabolism
+
+Affected bacteria: Pseudomonas putida, Streptococcus pneumoniae, Geobacter sulfurreducens, Neisseria meningitidis, Listeria monocytogenes
+========CLUSTER 172========
+Mixed, incl. nucleoside monophosphate metabolic process, and cellular modified amino acid metabolic process
+Mixed, incl. nucleoside monophosphate metabolic process, and Pyrimidine metabolism
+Mixed, incl. glycogen metabolic process, and maltose transport
+Mixed, incl. glycogen metabolic process, and trehalose metabolic process
+Mixed, incl. GDP-mannose metabolic process, and O antigen metabolic process
+Mixed, incl. nucleoside phosphate biosynthetic process, and water-soluble vitamin metabolic process
+
+Affected bacteria: Pseudomonas putida, Vibrio cholerae, Streptococcus pneumoniae, Neisseria meningitidis, Salmonella enterica
+========CLUSTER 173========
+Mixed, incl. Glutathione metabolism, and reactive oxygen species metabolic process
+Mixed, incl. Glycerophospholipid metabolism, and glycerol metabolic process
+
+Affected bacteria: Pseudomonas putida, Shigella flexneri
+========CLUSTER 174========
+Mixed, incl. maltose transport, and Alpha-amylase domain
+Mixed, incl. maltose transport, and Beta-phosphoglucomutase
+
+Affected bacteria: Bacillus subtilis
+========CLUSTER 175========
+Mixed, incl. cell division, and aminoglycan metabolic process
+Mixed, incl. Peptidoglycan biosynthesis, and cell division site
+Mixed, incl. polysaccharide transport, and GDP-mannose metabolic process
+
+Affected bacteria: Pseudomonas aeruginosa, Streptococcus pneumoniae, Clostridium botulinum
+========CLUSTER 176========
+Mixed, incl. Cell wall/choline-binding repeat, and polysaccharide biosynthetic process
+Mixed, incl. Polyketide sugar unit biosynthesis, and UDP-galactopyranose mutase
+Mixed, incl. Polyketide sugar unit biosynthesis, and UDP-galactopyranose mutase activity
+
+Affected bacteria: Escherichia coli, Streptococcus pneumoniae, Clostridium botulinum
+========CLUSTER 177========
+Mixed, incl. external encapsulating structure organization, and Lipopolysaccharide biosynthesis
+Mixed, incl. enterobacterial common antigen metabolic process, and Polyketide sugar unit biosynthesis
+
+Affected bacteria: Pseudomonas aeruginosa, Salmonella enterica
+========CLUSTER 178========
+Mixed, incl. UDP-N-acetylmuramate dehydrogenase activity, and UDP-N-acetylgalactosamine metabolic process
+Mixed, incl. protein N-linked glycosylation, and UDP-galactopyranose mutase activity
+Mixed, incl. polyol transmembrane transporter activity, and galactitol metabolic process
+
+Affected bacteria: Pseudomonas aeruginosa, Salmonella enterica
+========CLUSTER 179========
+Mixed, incl. O-Antigen nucleotide sugar biosynthesis, and Starch and sucrose metabolism
+Mixed, incl. Starch and sucrose metabolism, and maltose transmembrane transporter activity
+
+Affected bacteria: Streptococcus pneumoniae
+========CLUSTER 180========
+Terpenoid backbone biosynthesis
+Polyketide sugar unit biosynthesis
+
+Affected bacteria: Escherichia coli, Salmonella enterica, Neisseria meningitidis, Shigella flexneri
+========CLUSTER 181========
+Cellular component assembly
+Cellular component biogenesis
+Cellular component organization
+
+Affected bacteria: Bacillus subtilis, Pseudomonas aeruginosa, Vibrio cholerae, Yersinia pestis, Staphylococcus aureus, Aquifex aeolicus, Clostridium botulinum
+========CLUSTER 182========
+2-deoxyribonucleotide biosynthetic process
+Alpha-amino acid biosynthetic process
+Alpha-amino acid metabolic process
+
+Affected bacteria: Bacillus subtilis, Pseudomonas aeruginosa, Geobacter sulfurreducens, Neisseria meningitidis, Listeria monocytogenes
+========CLUSTER 183========
+Tetrahydrofolate metabolic process, and coenzyme A biosynthetic process
+Cobalamin metabolic process, and Porphyrin biosynthesis
+
+Affected bacteria: Streptococcus pneumoniae, Clostridium botulinum
+========CLUSTER 184========
+Glutamine family amino acid biosynthetic process, and Glutathione metabolism
+Glutamate metabolic process, and Glutathione metabolism
+Cellular amino acid biosynthetic process, and Cysteine and methionine metabolism
+
+Affected bacteria: Neisseria meningitidis
+========CLUSTER 185========
+Glycine metabolic process, and sarcosine oxidase activity
+Glycogen metabolic process, and Alpha-amylase domain
+Glycogen metabolic process, and UTP:glucose-1-phosphate uridylyltransferase activity
+Glycogen metabolic process, and glucose-1-phosphatase activity
+Glycerophospholipid metabolism, and glycerol kinase activity
+
+Affected bacteria: Pseudomonas aeruginosa, Chloroflexus aurantiacus, Escherichia coli, Salmonella enterica, Shigella flexneri
+========CLUSTER 186========
+Aromatic amino acid biosynthesis, and anthranilate synthase activity
+Tryptophan biosynthesis, and anthranilate synthase activity
+Amino-acid biosynthesis, and anthranilate synthase activity
+
+Affected bacteria: Pseudomonas aeruginosa
+========CLUSTER 187========
+Glycine catabolic process, and glycine biosynthetic process
+Aspartate family amino acid biosynthetic process, and L-serine metabolic process
+
+Affected bacteria: Pseudomonas aeruginosa, Neisseria meningitidis
+========CLUSTER 188========
+Nucleobase-containing small molecule metabolic process, and aromatic amino acid family biosynthetic process
+Small molecule biosynthetic process, and nucleoside monophosphate metabolic process
+
+Affected bacteria: Pseudomonas aeruginosa, Clostridium botulinum
+========CLUSTER 189========
+Adenyl nucleotide binding
+Adenyl ribonucleotide binding
+
+Affected bacteria: Staphylococcus aureus, Trichormus variabilis
+========CLUSTER 190========
+Cellular polysaccharide metabolic process, and oligosaccharide metabolic process
+Polysaccharide metabolic process, and disaccharide metabolic process
+
+Affected bacteria: Salmonella enterica
+========CLUSTER 191========
+Cellular amino acid metabolic process, and nucleoside monophosphate metabolic process
+Cellular amino acid biosynthetic process, and nucleoside monophosphate biosynthetic process
+Cellular amino acid biosynthetic process, and nucleoside monophosphate metabolic process
+
+Affected bacteria: Rhodopirellula baltica, Neisseria meningitidis, Pseudomonas putida
+========CLUSTER 192========
+Nucleoside monophosphate metabolic process, and folic acid-containing compound metabolic process
+Nucleoside monophosphate metabolic process, and pyrimidine nucleoside metabolic process
+Nucleoside monophosphate metabolic process, and pteridine-containing compound metabolic process
+Nucleoside monophosphate metabolic process, and tetrahydrofolate metabolic process
+
+Affected bacteria: Listeria monocytogenes, Rhodopirellula baltica, Neisseria meningitidis, Clostridium botulinum
+========CLUSTER 193========
+Ribonucleoside monophosphate biosynthetic process, and one-carbon metabolic process
+Nucleoside monophosphate metabolic process, and one-carbon metabolic process
+
+Affected bacteria: Pseudomonas putida, Vibrio cholerae
+========CLUSTER 194========
+Metabolic pathways
+Metabolic process
+
+Affected bacteria: Pseudomonas aeruginosa, Rhodopirellula baltica, Pseudomonas putida, Streptococcus pneumoniae, Geobacter sulfurreducens, Trichormus variabilis, Chloroflexus aurantiacus, Yersinia pestis, Staphylococcus aureus, Neisseria meningitidis, Clostridium botulinum, Salmonella enterica, Shigella flexneri
+========CLUSTER 195========
+Glycolysis / Gluconeogenesis
+Glycolysis / Gluconeogenesis, and Pentose phosphate pathway
+
+Affected bacteria: Clostridium botulinum, Pseudomonas putida, Shigella flexneri
+========CLUSTER 196========
+DNA metabolic process
+RNA metabolic process
+
+Affected bacteria: Sinorhizobium meliloti, Clostridium botulinum
+========CLUSTER 197========
+Purine nucleotide salvage
+Nucleotide salvage
+
+Affected bacteria: Salmonella enterica, Pseudomonas putida
+========CLUSTER 198========
+Ribonucleotide binding
+Nucleotide-binding
+Purine ribonucleotide binding
+Purine ribonucleoside triphosphate binding
+Nucleotide binding
+Purine nucleotide binding
+
+Affected bacteria: Rhodopirellula baltica, Trichormus variabilis, Chloroflexus aurantiacus, Staphylococcus aureus, Neisseria meningitidis
+========CLUSTER 199========
+AMP biosynthetic process
+UMP biosynthetic process
+
+Affected bacteria: Trichormus variabilis, Pseudomonas putida
+========CLUSTER 200========
+De novo IMP biosynthetic process
+De novo UMP biosynthetic process
+
+Affected bacteria: Pseudomonas aeruginosa, Neisseria meningitidis, Trichormus variabilis
+========CLUSTER 201========
+Aspartate family amino acid metabolic process
+Serine family amino acid metabolic process
+Serine family amino acid catabolic process
+
+Affected bacteria: Listeria monocytogenes, Neisseria meningitidis, Geobacter sulfurreducens
+========CLUSTER 202========
+Heterocycle metabolic process
+Heterocycle biosynthetic process
+
+Affected bacteria: Pseudomonas aeruginosa, Pseudomonas putida, Vibrio cholerae, Staphylococcus aureus, Neisseria meningitidis, Clostridium botulinum
+========CLUSTER 203========
+Cell wall macromolecule biosynthetic process
+Cell wall biogenesis
+Cell wall macromolecule metabolic process
+
+Affected bacteria: Bacillus subtilis, Staphylococcus aureus, Pseudomonas aeruginosa, Clostridium botulinum
+========CLUSTER 204========
+Fatty acid metabolic process
+Fatty acid metabolism
+Lipid metabolic process
+
+Affected bacteria: Escherichia coli, Salmonella enterica, Geobacter sulfurreducens, Shigella flexneri
+========CLUSTER 205========
+Sulfur amino acid biosynthetic process
+Nitrogen compound metabolic process
+Sulfur amino acid metabolic process
+Sulfur compound biosynthetic process
+Sulfur compound metabolic process
+
+Affected bacteria: Pseudomonas aeruginosa, Sinorhizobium meliloti, Rhodopirellula baltica, Pseudomonas putida, Geobacter sulfurreducens, Trichormus variabilis, Yersinia pestis, Staphylococcus aureus, Neisseria meningitidis, Clostridium botulinum, Listeria monocytogenes
+========CLUSTER 206========
+Organophosphate catabolic process
+Organophosphate metabolic process
+Organonitrogen compound metabolic process
+
+Affected bacteria: Pseudomonas aeruginosa, Rhodopirellula baltica, Pseudomonas putida, Geobacter sulfurreducens, Trichormus variabilis, Chloroflexus aurantiacus, Staphylococcus aureus, Neisseria meningitidis, Clostridium botulinum, Salmonella enterica, Shigella flexneri
+========CLUSTER 207========
+Amino-acid biosynthesis
+Fatty acid biosynthesis
+
+Affected bacteria: Pseudomonas aeruginosa, Neisseria meningitidis, Geobacter sulfurreducens
+========CLUSTER 208========
+One-carbon metabolism
+One-carbon metabolic process
+
+Affected bacteria: Listeria monocytogenes, Pseudomonas aeruginosa
+========CLUSTER 209========
+Glutathione metabolic process
+Glutathione metabolism
+
+Affected bacteria: Pseudomonas putida
+========CLUSTER 210========
+Lipid biosynthetic process
+Fatty acid biosynthetic process
+
+Affected bacteria: Escherichia coli, Salmonella enterica, Geobacter sulfurreducens, Shigella flexneri
+========CLUSTER 211========
+Glycerophospholipid biosynthetic process
+Phosphatidylglycerol biosynthetic process
+
+Affected bacteria: Shigella flexneri
+========CLUSTER 212========
+Organic substance catabolic process
+Organic substance metabolic process
+
+Affected bacteria: Pseudomonas aeruginosa, Sinorhizobium meliloti, Rhodopirellula baltica, Pseudomonas putida, Streptococcus pneumoniae, Geobacter sulfurreducens, Trichormus variabilis, Yersinia pestis, Staphylococcus aureus, Neisseria meningitidis, Clostridium botulinum, Listeria monocytogenes, Salmonella enterica
+========CLUSTER 213========
+Organonitrogen compound biosynthetic process
+Organophosphate biosynthetic process
+
+Affected bacteria: Pseudomonas aeruginosa, Sinorhizobium meliloti, Rhodopirellula baltica, Pseudomonas putida, Streptococcus pneumoniae, Geobacter sulfurreducens, Yersinia pestis, Staphylococcus aureus, Neisseria meningitidis, Clostridium botulinum, Salmonella enterica, Shigella flexneri
+========CLUSTER 214========
+Pteridine-containing compound metabolic process
+Nucleobase-containing compound metabolic process
+Pyrimidine-containing compound metabolic process
+Guanosine-containing compound metabolic process
+Purine-containing compound metabolic process
+
+Affected bacteria: Pseudomonas aeruginosa, Rhodopirellula baltica, Pseudomonas putida, Streptococcus pneumoniae, Staphylococcus aureus, Neisseria meningitidis, Clostridium botulinum, Listeria monocytogenes, Shigella flexneri
+========CLUSTER 215========
+Cellular modified amino acid metabolic process
+Cellular carbohydrate metabolic process
+Cellular lipid metabolic process
+Cellular carbohydrate catabolic process
+Cellular catabolic process
+Cellular protein metabolic process
+Cellular amino acid metabolic process
+Cellular metabolic process
+
+Affected bacteria: Pseudomonas aeruginosa, Sinorhizobium meliloti, Rhodopirellula baltica, Pseudomonas putida, Streptococcus pneumoniae, Geobacter sulfurreducens, Trichormus variabilis, Escherichia coli, Yersinia pestis, Staphylococcus aureus, Chloroflexus aurantiacus, Neisseria meningitidis, Clostridium botulinum, Listeria monocytogenes, Salmonella enterica, Shigella flexneri
+========CLUSTER 216========
+Macromolecule metabolic process
+Cellular macromolecule metabolic process
+
+Affected bacteria: Bacillus subtilis, Pseudomonas aeruginosa, Sinorhizobium meliloti, Rhodopirellula baltica, Trichormus variabilis, Geobacter sulfurreducens, Yersinia pestis, Chloroflexus aurantiacus, Staphylococcus aureus, Neisseria meningitidis, Clostridium botulinum
+========CLUSTER 217========
+Histidine biosynthesis
+Pyrimidine biosynthesis
+Purine biosynthesis
+
+Affected bacteria: Pseudomonas aeruginosa, Neisseria meningitidis, Trichormus variabilis
+========CLUSTER 218========
+Cellular polysaccharide metabolic process
+Cellular polysaccharide biosynthetic process
+Cellular carbohydrate biosynthetic process
+Cellular glucan metabolic process
+Extracellular polysaccharide biosynthetic process
+Cellular amino acid biosynthetic process
+
+Affected bacteria: Pseudomonas aeruginosa, Vibrio cholerae, Streptococcus pneumoniae, Geobacter sulfurreducens, Trichormus variabilis, Escherichia coli, Chloroflexus aurantiacus, Staphylococcus aureus, Neisseria meningitidis, Salmonella enterica, Shigella flexneri
+========CLUSTER 219========
+Cellular nitrogen compound biosynthetic process
+Cellular nitrogen compound metabolic process
+
+Affected bacteria: Pseudomonas aeruginosa, Sinorhizobium meliloti, Rhodopirellula baltica, Pseudomonas putida, Geobacter sulfurreducens, Yersinia pestis, Neisseria meningitidis, Clostridium botulinum
+========CLUSTER 220========
+Glycogen metabolic process
+Glycogen metabolism
+
+Affected bacteria: Rhodopirellula baltica, Vibrio cholerae, Trichormus variabilis, Escherichia coli, Chloroflexus aurantiacus, Salmonella enterica, Shigella flexneri
+========CLUSTER 221========
+Lipopolysaccharide metabolic process
+Lipopolysaccharide core region metabolic process
+
+Affected bacteria: Escherichia coli, Salmonella enterica, Shigella flexneri
+========CLUSTER 222========
+Chorismate biosynthetic process
+Thiamine biosynthetic process
+Methionine biosynthetic process
+Histidine biosynthetic process
+Folic acid biosynthetic process
+Proline biosynthetic process
+Tetrahydrofolate biosynthetic process
+
+Affected bacteria: Listeria monocytogenes, Staphylococcus aureus, Pseudomonas aeruginosa, Vibrio cholerae
+========CLUSTER 223========
+Polyol catabolic process
+Polyol metabolic process
+
+Affected bacteria: Salmonella enterica
+========CLUSTER 224========
+Threonine metabolic process
+Methionine metabolic process
+
+Affected bacteria: Listeria monocytogenes, Neisseria meningitidis
+========CLUSTER 225========
+Glycine metabolic process
+Glycine catabolic process
+
+Affected bacteria: Pseudomonas aeruginosa, Geobacter sulfurreducens
+========CLUSTER 226========
+Carbohydrate metabolic process
+Carbohydrate catabolic process
+
+Affected bacteria: Rhodopirellula baltica, Pseudomonas putida, Streptococcus pneumoniae, Geobacter sulfurreducens, Escherichia coli, Neisseria meningitidis, Clostridium botulinum, Salmonella enterica, Shigella flexneri
+========CLUSTER 227========
+Aspartate family amino acid biosynthetic process
+Carotenoid biosynthetic process
+Serine family amino acid biosynthetic process
+Aromatic amino acid family biosynthetic process
+Aromatic compound biosynthetic process
+
+Affected bacteria: Pseudomonas aeruginosa, Rhodopirellula baltica, Pseudomonas putida, Vibrio cholerae, Staphylococcus aureus, Neisseria meningitidis, Clostridium botulinum, Listeria monocytogenes
+========CLUSTER 228========
+Ribose phosphate metabolic process
+Ribose phosphate biosynthetic process
+Deoxyribose phosphate metabolic process
+
+Affected bacteria: Salmonella enterica, Pseudomonas putida
+========CLUSTER 229========
+Oligosaccharide catabolic process
+Oligosaccharide biosynthetic process
+Oligosaccharide metabolic process
+
+Affected bacteria: Bacillus subtilis, Streptococcus pneumoniae, Escherichia coli, Staphylococcus aureus, Salmonella enterica, Shigella flexneri
+========CLUSTER 230========
+Nucleobase-containing compound biosynthetic process
+Purine-containing compound biosynthetic process
+Porphyrin-containing compound biosynthetic process
+
+Affected bacteria: Pseudomonas aeruginosa, Rhodopirellula baltica, Pseudomonas putida, Vibrio cholerae, Streptococcus pneumoniae, Neisseria meningitidis, Clostridium botulinum, Salmonella enterica
+========CLUSTER 231========
+Monocarboxylic acid metabolic process
+Carboxylic acid metabolic process
+
+Affected bacteria: Staphylococcus aureus, Neisseria meningitidis, Geobacter sulfurreducens
+========CLUSTER 232========
+Carboxylic acid biosynthetic process
+Organic acid metabolic process
+Amino sugar metabolic process
+Organic substance biosynthetic process
+Carbohydrate biosynthetic process
+Carbohydrate derivative biosynthetic process
+Monocarboxylic acid biosynthetic process
+Organic acid biosynthetic process
+
+Affected bacteria: Pseudomonas aeruginosa, Sinorhizobium meliloti, Rhodopirellula baltica, Pseudomonas putida, Streptococcus pneumoniae, Geobacter sulfurreducens, Yersinia pestis, Escherichia coli, Staphylococcus aureus, Neisseria meningitidis, Clostridium botulinum, Salmonella enterica, Shigella flexneri
+========CLUSTER 233========
+Deoxyribonucleoside monophosphate biosynthetic process
+Deoxyribonucleotide biosynthetic process
+
+Affected bacteria: Bacillus subtilis, Clostridium botulinum
+========CLUSTER 234========
+Purine ribonucleotide biosynthetic process
+Purine ribonucleoside monophosphate biosynthetic process
+Purine nucleotide biosynthetic process
+
+Affected bacteria: Pseudomonas aeruginosa, Streptococcus pneumoniae, Neisseria meningitidis, Pseudomonas putida
+========CLUSTER 235========
+Polysaccharide metabolic process
+Polysaccharide catabolic process
+
+Affected bacteria: Geobacter sulfurreducens, Trichormus variabilis, Escherichia coli, Clostridium botulinum, Listeria monocytogenes, Salmonella enterica, Shigella flexneri
+========CLUSTER 236========
+Monosaccharide metabolic process
+Disaccharide metabolic process
+Liposaccharide metabolic process
+
+Affected bacteria: Staphylococcus aureus, Streptococcus pneumoniae, Salmonella enterica
+========CLUSTER 237========
+Ribonucleoside biosynthetic process
+Ribonucleoside monophosphate biosynthetic process
+Ribonucleotide biosynthetic process
+
+Affected bacteria: Pseudomonas aeruginosa, Pseudomonas putida, Trichormus variabilis, Neisseria meningitidis, Salmonella enterica, Shigella flexneri
+========CLUSTER 238========
+Nucleoside monophosphate biosynthetic process
+Nucleoside phosphate biosynthetic process
+
+Affected bacteria: Pseudomonas aeruginosa, Pseudomonas putida, Vibrio cholerae, Neisseria meningitidis, Salmonella enterica, Shigella flexneri
+========CLUSTER 239========
+Nucleoside monophosphate metabolic process
+Nucleoside diphosphate metabolic process
+Nucleoside triphosphate metabolic process
+Nucleoside metabolic process
+Nucleoside phosphate metabolic process
+
+Affected bacteria: Rhodopirellula baltica, Pseudomonas putida, Trichormus variabilis, Yersinia pestis, Neisseria meningitidis, Salmonella enterica, Shigella flexneri
+========CLUSTER 240========
+Lipopolysaccharide biosynthetic process
+Lipopolysaccharide core region biosynthetic process
+
+Affected bacteria: Escherichia coli, Salmonella enterica, Shigella flexneri
+========CLUSTER 241========
+Microbial metabolism in diverse environments
+
+Affected bacteria: Pseudomonas putida, Geobacter sulfurreducens
+========CLUSTER 242========
+Transsulfuration, and Methylenetetrahydrofolate reductase
+
+Affected bacteria: Pseudomonas putida
+========CLUSTER 243========
+Hpt domain
+
+Affected bacteria: Chloroflexus aurantiacus, Rhodopirellula baltica, Trichormus variabilis, Vibrio cholerae
+========CLUSTER 244========
+Histidine metabolism
+
+Affected bacteria: Pseudomonas aeruginosa
+========CLUSTER 245========
+PAC motif
+
+Affected bacteria: Chloroflexus aurantiacus, Rhodopirellula baltica, Trichormus variabilis
+========CLUSTER 246========
+Motor activity, and Bacterial flagellum protein export
+
+Affected bacteria: Vibrio cholerae
+========CLUSTER 247========
+Bacterial-type flagellum basal body, rod, and Flagellar hook-basal body protein, FlgE/F/G
+
+Affected bacteria: Vibrio cholerae
+========CLUSTER 248========
+Mo-molybdopterin cofactor biosynthetic process
+
+Affected bacteria: Staphylococcus aureus
+========CLUSTER 249========
+Colanic acid metabolic process
+
+Affected bacteria: Salmonella enterica
+========CLUSTER 250========
+Self proteolysis, and Glutathione peroxidase
+
+Affected bacteria: Pseudomonas putida
+========CLUSTER 251========
+Ribosomal protein
+
+Affected bacteria: Pseudomonas aeruginosa, Sinorhizobium meliloti, Rhodopirellula baltica, Geobacter sulfurreducens, Yersinia pestis, Aquifex aeolicus, Neisseria meningitidis, Clostridium botulinum
+========CLUSTER 252========
+Mixed, incl. HdeA/HdeB family, and pH elevation
+
+Affected bacteria: Escherichia coli
+========CLUSTER 253========
+DNA repair, and chromosome
+
+Affected bacteria: Staphylococcus aureus
+========CLUSTER 254========
+Export from cell
+
+Affected bacteria: Shigella flexneri
+========CLUSTER 255========
+Cytochrome C, Planctomycete-type
+
+Affected bacteria: Rhodopirellula baltica
+========CLUSTER 256========
+Mixed, incl. protein tyrosine kinase activity, and regulation of single-species biofilm formation
+
+Affected bacteria: Clostridium botulinum
+========CLUSTER 257========
+Glycine metabolic process, and Formyltetrahydrofolate deformylase
+
+Affected bacteria: Shigella flexneri
+========CLUSTER 258========
+Nucleotide catabolic process
+
+Affected bacteria: Salmonella enterica
+========CLUSTER 259========
+Cellular component organization or biogenesis
+
+Affected bacteria: Bacillus subtilis, Pseudomonas aeruginosa, Yersinia pestis, Staphylococcus aureus, Clostridium botulinum
+========CLUSTER 260========
+Mixed, incl. Type III secretion protein HrcV, and Type III secretion protein HrpO
+
+Affected bacteria: Shigella flexneri
+========CLUSTER 261========
+Regulation of transcription, DNA-templated
+
+Affected bacteria: Trichormus variabilis
+========CLUSTER 262========
+Glycogen metabolic process, and Alpha amylase, catalytic domain
+
+Affected bacteria: Bacillus subtilis, Geobacter sulfurreducens
+========CLUSTER 263========
+Valine, leucine and isoleucine biosynthesis
+
+Affected bacteria: Geobacter sulfurreducens
+========CLUSTER 264========
+Galactose metabolism
+
+Affected bacteria: Pseudomonas putida, Streptococcus pneumoniae, Staphylococcus aureus, Clostridium botulinum, Salmonella enterica
+========CLUSTER 265========
+O-Antigen nucleotide sugar biosynthesis, and enterobacterial common antigen metabolic process
+
+Affected bacteria: Salmonella enterica
+========CLUSTER 266========
+Mixed, incl. defense response, and Plasmid
+
+Affected bacteria: Aquifex aeolicus
+========CLUSTER 267========
+Glycerolipid biosynthetic process, and RsgA GTPase
+
+Affected bacteria: Shigella flexneri
+========CLUSTER 268========
+WD40 repeat, conserved site
+
+Affected bacteria: Rhodopirellula baltica
+========CLUSTER 269========
+Antibiotic biosynthetic process
+
+Affected bacteria: Bacillus subtilis
+========CLUSTER 270========
+Mixed, incl. Bacterial general secretion pathway protein G-type pilin, and Cohesin domain
+
+Affected bacteria: Geobacter sulfurreducens
+========CLUSTER 271========
+Transcription regulation
+
+Affected bacteria: Trichormus variabilis
+========CLUSTER 272========
+RNA polymerase activity, and cyclic nucleotide binding
+
+Affected bacteria: Sinorhizobium meliloti
+========CLUSTER 273========
+Mixed, incl. pH elevation, and HdeA/HdeB family
+
+Affected bacteria: Escherichia coli
+========CLUSTER 274========
+Binding
+
+Affected bacteria: Pseudomonas aeruginosa, Sinorhizobium meliloti, Rhodopirellula baltica, Vibrio cholerae, Trichormus variabilis, Yersinia pestis, Chloroflexus aurantiacus, Staphylococcus aureus, Neisseria meningitidis
+========CLUSTER 275========
+DNA conformation change
+
+Affected bacteria: Yersinia pestis
+========CLUSTER 276========
+De novo pyrimidine nucleobase biosynthetic process
+
+Affected bacteria: Trichormus variabilis
+========CLUSTER 277========
+Bacterial regulatory proteins, luxR family
+
+Affected bacteria: Shigella flexneri
+========CLUSTER 278========
+Sulfur amino acid biosynthetic process, and tripeptidase activity
+
+Affected bacteria: Listeria monocytogenes
+========CLUSTER 279========
+Phosphoprotein
+
+Affected bacteria: Rhodopirellula baltica, Vibrio cholerae, Trichormus variabilis, Chloroflexus aurantiacus, Shigella flexneri
+========CLUSTER 280========
+Mixed, incl. EF-Hand 1, calcium-binding site, and Nucleotide-diphospho-sugar transferases
+
+Affected bacteria: Vibrio cholerae
+========CLUSTER 281========
+Phosphate-containing compound metabolic process
+
+Affected bacteria: Rhodopirellula baltica, Pseudomonas putida, Vibrio cholerae, Trichormus variabilis, Chloroflexus aurantiacus, Staphylococcus aureus, Neisseria meningitidis, Salmonella enterica, Shigella flexneri
+========CLUSTER 282========
+Nucleotide biosynthetic process
+
+Affected bacteria: Rhodopirellula baltica, Salmonella enterica, Neisseria meningitidis, Pseudomonas putida
+========CLUSTER 283========
+Cell cycle, and serine-type carboxypeptidase activity
+
+Affected bacteria: Streptococcus pneumoniae
+========CLUSTER 284========
+PAS fold-4, and PAS domain
+
+Affected bacteria: Chloroflexus aurantiacus
+========CLUSTER 285========
+Cell wall organization
+
+Affected bacteria: Bacillus subtilis, Staphylococcus aureus, Pseudomonas aeruginosa, Clostridium botulinum
+========CLUSTER 286========
+Mixed, incl. UMP salvage, and nucleoside monophosphate phosphorylation
+
+Affected bacteria: Salmonella enterica
+========CLUSTER 287========
+Cellular process
+
+Affected bacteria: Bacillus subtilis, Pseudomonas aeruginosa, Sinorhizobium meliloti, Rhodopirellula baltica, Pseudomonas putida, Vibrio cholerae, Streptococcus pneumoniae, Geobacter sulfurreducens, Trichormus variabilis, Yersinia pestis, Chloroflexus aurantiacus, Staphylococcus aureus, Neisseria meningitidis, Clostridium botulinum, Salmonella enterica
+========CLUSTER 288========
+Alpha amylase, catalytic domain
+
+Affected bacteria: Chloroflexus aurantiacus, Bacillus subtilis, Rhodopirellula baltica
+========CLUSTER 289========
+HAMP domain
+
+Affected bacteria: Chloroflexus aurantiacus
+========CLUSTER 290========
+Two component signalling adaptor domain
+
+Affected bacteria: Chloroflexus aurantiacus, Trichormus variabilis
+========CLUSTER 291========
+Homoserine metabolic process
+
+Affected bacteria: Listeria monocytogenes
+========CLUSTER 292========
+PAS-associated, C-terminal
+
+Affected bacteria: Chloroflexus aurantiacus, Rhodopirellula baltica, Trichormus variabilis
+========CLUSTER 293========
+Mixed, incl. Carbohydrate metabolism, and MetI-like superfamily
+
+Affected bacteria: Bacillus subtilis
+========CLUSTER 294========
+Mixed, incl. Amino sugar and nucleotide sugar metabolism, and Glycosyl transferases group 1
+
+Affected bacteria: Aquifex aeolicus
+========CLUSTER 295========
+Cell shape, and alanine racemase activity
+
+Affected bacteria: Clostridium botulinum
+========CLUSTER 296========
+NAD
+
+Affected bacteria: Chloroflexus aurantiacus, Rhodopirellula baltica
+========CLUSTER 297========
+Galactitol metabolic process, and polyol transmembrane transporter activity
+
+Affected bacteria: Salmonella enterica
+========CLUSTER 298========
+Small molecule sensor activity
+
+Affected bacteria: Vibrio cholerae
+========CLUSTER 299========
+Branched-chain amino acid biosynthetic process
+
+Affected bacteria: Neisseria meningitidis, Geobacter sulfurreducens
+========CLUSTER 300========
+Starch and sucrose metabolism
+
+Affected bacteria: Bacillus subtilis, Rhodopirellula baltica, Pseudomonas putida, Vibrio cholerae, Streptococcus pneumoniae, Geobacter sulfurreducens, Trichormus variabilis, Escherichia coli, Chloroflexus aurantiacus, Salmonella enterica, Shigella flexneri
+========CLUSTER 301========
+Ribonucleoside-diphosphate reductase complex, and Cytidylate kinase
+
+Affected bacteria: Yersinia pestis
+========CLUSTER 302========
+Protein tyrosine kinase, and Protein phosphatase 2C
+
+Affected bacteria: Rhodopirellula baltica
+========CLUSTER 303========
+Protein transport, and type II protein secretion system complex
+
+Affected bacteria: Salmonella enterica
+========CLUSTER 304========
+Polyketide synthase, phosphopantetheine-binding domain, and Thioesterase type II, NRPS/PKS/S-FAS
+
+Affected bacteria: Rhodopirellula baltica
+========CLUSTER 305========
+Mixed, incl. Flagellar M-ring , N-terminal, and Type III secretion system, PrgH/EprH-like
+
+Affected bacteria: Shigella flexneri
+========CLUSTER 306========
+Cadherin-like
+
+Affected bacteria: Rhodopirellula baltica
+========CLUSTER 307========
+Organic cyclic compound biosynthetic process
+
+Affected bacteria: Pseudomonas aeruginosa, Pseudomonas putida, Vibrio cholerae, Staphylococcus aureus, Neisseria meningitidis, Clostridium botulinum
+========CLUSTER 308========
+Disulfide bond
+
+Affected bacteria: Escherichia coli
+========CLUSTER 309========
+Pyrimidine metabolism, and AMP salvage
+
+Affected bacteria: Trichormus variabilis
+========CLUSTER 310========
+Virulence, and Shigellosis
+
+Affected bacteria: Shigella flexneri
+========CLUSTER 311========
+Mostly uncharacterized, incl. aminoglycan catabolic process, and growth of symbiont in host
+
+Affected bacteria: Pseudomonas aeruginosa
+========CLUSTER 312========
+Mixed, incl. Metalloenzyme inhibitor, and type I protein secretion system complex
+
+Affected bacteria: Pseudomonas aeruginosa
+========CLUSTER 313========
+Mixed, incl. Bacterial invasion of epithelial cells, and Tetratricopeptide TPR-3
+
+Affected bacteria: Shigella flexneri
+========CLUSTER 314========
+Nucleotide biosynthetic process, and Nicotinate and nicotinamide metabolism
+
+Affected bacteria: Trichormus variabilis
+========CLUSTER 315========
+Tetrahydrofolate metabolic process
+
+Affected bacteria: Pseudomonas aeruginosa
+========CLUSTER 316========
+Nucleic acid phosphodiester bond hydrolysis
+
+Affected bacteria: Yersinia pestis, Staphylococcus aureus, Clostridium botulinum
+========CLUSTER 317========
+Mixed, incl. PAS fold, and Putative diguanylate phosphodiesterase
+
+Affected bacteria: Vibrio cholerae
+========CLUSTER 318========
+Macromolecule localization
+
+Affected bacteria: Escherichia coli, Bacillus subtilis, Salmonella enterica, Shigella flexneri
+========CLUSTER 319========
+Cellular biosynthetic process
+
+Affected bacteria: Pseudomonas aeruginosa, Sinorhizobium meliloti, Rhodopirellula baltica, Streptococcus pneumoniae, Geobacter sulfurreducens, Yersinia pestis, Staphylococcus aureus, Neisseria meningitidis, Clostridium botulinum, Salmonella enterica
+========CLUSTER 320========
+Beta-ketoacyl synthase, N-terminal, and Acyl transferase
+
+Affected bacteria: Bacillus subtilis
+========CLUSTER 321========
+Planctomycete cytochrome C
+
+Affected bacteria: Rhodopirellula baltica
+========CLUSTER 322========
+Generation of precursor metabolites and energy
+
+Affected bacteria: Rhodopirellula baltica
+========CLUSTER 323========
+Glycogen metabolic process, and alpha-amylase activity (releasing maltohexaose)
+
+Affected bacteria: Vibrio cholerae
+========CLUSTER 324========
+Protein secretion by the type II secretion system
+
+Affected bacteria: Escherichia coli
+========CLUSTER 325========
+Folate biosynthesis
+
+Affected bacteria: Pseudomonas aeruginosa
+========CLUSTER 326========
+Response regulator receiver domain
+
+Affected bacteria: Rhodopirellula baltica, Vibrio cholerae, Trichormus variabilis, Chloroflexus aurantiacus, Shigella flexneri
+========CLUSTER 327========
+Carboxypeptidase activity, and drug binding
+
+Affected bacteria: Clostridium botulinum
+========CLUSTER 328========
+Integral component of membrane
+
+Affected bacteria: Chloroflexus aurantiacus
+========CLUSTER 329========
+Pore complex
+
+Affected bacteria: Escherichia coli, Shigella flexneri
+========CLUSTER 330========
+Oxidation-reduction process
+
+Affected bacteria: Streptococcus pneumoniae, Rhodopirellula baltica
+========CLUSTER 331========
+Phosphotransferase activity, alcohol group as acceptor
+
+Affected bacteria: Chloroflexus aurantiacus, Rhodopirellula baltica, Trichormus variabilis, Vibrio cholerae
+========CLUSTER 332========
+Nickel transport, and peptide transport
+
+Affected bacteria: Staphylococcus aureus
+========CLUSTER 333========
+Mismatch repair, and DNA damage
+
+Affected bacteria: Clostridium botulinum
+========CLUSTER 334========
+Transcriptional regulatory protein WalR-like
+
+Affected bacteria: Shigella flexneri, Trichormus variabilis, Vibrio cholerae
+========CLUSTER 335========
+Mixed, incl. phosphoenolpyruvate-dependent sugar phosphotransferase system, and carbohydrate catabolic process
+
+Affected bacteria: Streptococcus pneumoniae
+========CLUSTER 336========
+Bacterial secretion system
+
+Affected bacteria: Escherichia coli
+========CLUSTER 337========
+Virulence, and Ankyrin repeat-containing domain superfamily
+
+Affected bacteria: Shigella flexneri
+========CLUSTER 338========
+Molecular transducer activity
+
+Affected bacteria: Chloroflexus aurantiacus, Trichormus variabilis, Vibrio cholerae
+========CLUSTER 339========
+Nicotinate and nicotinamide metabolism
+
+Affected bacteria: Salmonella enterica, Rhodopirellula baltica, Pseudomonas putida
+========CLUSTER 340========
+Pentose phosphate pathway, and Glycolysis
+
+Affected bacteria: Pseudomonas putida
+========CLUSTER 341========
+Purine metabolism
+
+Affected bacteria: Rhodopirellula baltica, Pseudomonas putida, Neisseria meningitidis, Listeria monocytogenes, Salmonella enterica
+========CLUSTER 342========
+Reverse transcriptase/Diguanylate cyclase domain
+
+Affected bacteria: Vibrio cholerae
+========CLUSTER 343========
+WD repeat
+
+Affected bacteria: Rhodopirellula baltica
+========CLUSTER 344========
+Mixed, incl. glycine metabolic process, and One carbon pool by folate
+
+Affected bacteria: Pseudomonas aeruginosa
+========CLUSTER 345========
+DNA damage, and Non-homologous end-joining
+
+Affected bacteria: Pseudomonas aeruginosa, Clostridium botulinum
+========CLUSTER 346========
+Glycerophospholipid metabolism
+
+Affected bacteria: Escherichia coli, Salmonella enterica, Shigella flexneri
+========CLUSTER 347========
+Virulence, and acyl carrier activity
+
+Affected bacteria: Salmonella enterica
+========CLUSTER 348========
+One carbon pool by folate
+
+Affected bacteria: Pseudomonas aeruginosa, Streptococcus pneumoniae, Geobacter sulfurreducens, Listeria monocytogenes, Shigella flexneri
+========CLUSTER 349========
+Biosynthesis of various secondary metabolites - part 3
+
+Affected bacteria: Shigella flexneri
+========CLUSTER 350========
+Tyrosine metabolism, and 4-hydroxyphenylacetate permease
+
+Affected bacteria: Shigella flexneri
+========CLUSTER 351========
+Mixed, incl. deoxyribonucleotide biosynthetic process, and nucleobase-containing compound kinase activity
+
+Affected bacteria: Clostridium botulinum
+========CLUSTER 352========
+Mixed, incl. Methyltransferase FkbM, and MatE
+
+Affected bacteria: Trichormus variabilis
+========CLUSTER 353========
+Epithelial cell signaling in Helicobacter pylori infection
+
+Affected bacteria: Helicobacter pylori
+========CLUSTER 354========
+Carbohydrate metabolism
+
+Affected bacteria: Salmonella enterica, Rhodopirellula baltica
+========CLUSTER 355========
+Regulation of anatomical structure morphogenesis, and UDP-N-acetylglucosamine metabolic process
+
+Affected bacteria: Streptococcus pneumoniae
+========CLUSTER 356========
+Protein maturation
+
+Affected bacteria: Geobacter sulfurreducens
+========CLUSTER 357========
+Establishment of protein localization
+
+Affected bacteria: Escherichia coli, Salmonella enterica
+========CLUSTER 358========
+Plasmid
+
+Affected bacteria: Yersinia pestis
+========CLUSTER 359========
+Mixed, incl. interspecies interaction between organisms, and DNA integration
+
+Affected bacteria: Vibrio cholerae
+========CLUSTER 360========
+Oxidative phosphorylation
+
+Affected bacteria: Chloroflexus aurantiacus
+========CLUSTER 361========
+Fatty acid biosynthesis, and Phosphopantetheine
+
+Affected bacteria: Rhodopirellula baltica
+========CLUSTER 362========
+Water-soluble vitamin biosynthetic process
+
+Affected bacteria: Clostridium botulinum
+========CLUSTER 363========
+Response to virus, and CRISPR-associated protein Csx3
+
+Affected bacteria: Aquifex aeolicus
+========CLUSTER 364========
+Mixed, incl. nodulation, and Glycosyltransferase like family 2
+
+Affected bacteria: Geobacter sulfurreducens
+========CLUSTER 365========
+Pyrimidine nucleotide metabolic process
+
+Affected bacteria: Salmonella enterica, Trichormus variabilis
+========CLUSTER 366========
+Peptidoglycan-based cell wall biogenesis
+
+Affected bacteria: Bacillus subtilis, Staphylococcus aureus, Clostridium botulinum
+========CLUSTER 367========
+Taxis
+
+Affected bacteria: Pseudomonas putida
+========CLUSTER 368========
+Mixed, incl. diguanylate cyclase, and c-di-GMP
+
+Affected bacteria: Escherichia coli
+========CLUSTER 369========
+O-Antigen nucleotide sugar biosynthesis, and transferase activity, transferring glycosyl groups
+
+Affected bacteria: Pseudomonas aeruginosa
+========CLUSTER 370========
+Glycine decarboxylation via glycine cleavage system
+
+Affected bacteria: Geobacter sulfurreducens
+========CLUSTER 371========
+Mixed, incl. Thermostable hemolysin, and acyl-CoA ligase activity
+
+Affected bacteria: Pseudomonas putida
+========CLUSTER 372========
+Mostly uncharacterized, incl. Vancomycin resistance, and Mismatch repair
+
+Affected bacteria: Pseudomonas aeruginosa
+========CLUSTER 373========
+Mixed, incl. response to pH, and pH elevation
+
+Affected bacteria: Escherichia coli
+========CLUSTER 374========
+Cellular macromolecule biosynthetic process
+
+Affected bacteria: Bacillus subtilis, Pseudomonas aeruginosa, Sinorhizobium meliloti, Rhodopirellula baltica, Geobacter sulfurreducens, Yersinia pestis, Staphylococcus aureus, Neisseria meningitidis, Clostridium botulinum
+========CLUSTER 375========
+Nucleobase-containing small molecule metabolic process
+
+Affected bacteria: Rhodopirellula baltica, Pseudomonas putida, Vibrio cholerae, Neisseria meningitidis, Clostridium botulinum, Salmonella enterica, Shigella flexneri
+========CLUSTER 376========
+Mixed, incl. carbohydrate transport, and Carbohydrate metabolism
+
+Affected bacteria: Bacillus subtilis
+========CLUSTER 377========
+Ribonucleoprotein complex
+
+Affected bacteria: Neisseria meningitidis
+========CLUSTER 378========
+Cobalamin biosynthetic process
+
+Affected bacteria: Clostridium botulinum
+========CLUSTER 379========
+Cellular metabolic compound salvage
+
+Affected bacteria: Salmonella enterica, Pseudomonas putida
+========CLUSTER 380========
+Zymogen, and Toxin
+
+Affected bacteria: Listeria monocytogenes
+========CLUSTER 381========
+Envelope
+
+Affected bacteria: Salmonella enterica
+========CLUSTER 382========
+Pilus organization, and Protein of unknown function (DUF1120)
+
+Affected bacteria: Escherichia coli
+========CLUSTER 383========
+Protein transmembrane transport
+
+Affected bacteria: Escherichia coli
+========CLUSTER 384========
+Cytosolic ribosome
+
+Affected bacteria: Yersinia pestis, Rhodopirellula baltica, Geobacter sulfurreducens
+========CLUSTER 385========
+Teichoic acid biosynthesis
+
+Affected bacteria: Bacillus subtilis
+========CLUSTER 386========
+Peptidoglycan synthesis
+
+Affected bacteria: Staphylococcus aureus, Pseudomonas aeruginosa, Clostridium botulinum
+========CLUSTER 387========
+Fructose and mannose metabolism
+
+Affected bacteria: Pseudomonas putida
+========CLUSTER 388========
+Mixed, incl. Toxin-antitoxin system, and Quorum sensing
+
+Affected bacteria: Bacillus subtilis
+========CLUSTER 389========
+Pertussis
+
+Affected bacteria: Pseudomonas aeruginosa
+========CLUSTER 390========
+Pentose phosphate pathway
+
+Affected bacteria: Pseudomonas putida
+========CLUSTER 391========
+Peptide metabolic process
+
+Affected bacteria: Pseudomonas aeruginosa, Neisseria meningitidis
+========CLUSTER 392========
+Mixed, incl. Fibronectin type III, and Integrin
+
+Affected bacteria: Chloroflexus aurantiacus
+========CLUSTER 393========
+Aspartate family amino acid biosynthetic process, and Aminotransferases, class-I, pyridoxal-phosphate-binding site
+
+Affected bacteria: Listeria monocytogenes
+========CLUSTER 394========
+Ribosome
+
+Affected bacteria: Pseudomonas aeruginosa, Sinorhizobium meliloti, Rhodopirellula baltica, Geobacter sulfurreducens, Yersinia pestis, Aquifex aeolicus, Neisseria meningitidis, Clostridium botulinum
+========CLUSTER 395========
+DNA restriction-modification system, and Protein of unknown function DUF45
+
+Affected bacteria: Trichormus variabilis
+========CLUSTER 396========
+Cellular anatomical entity
+
+Affected bacteria: Pseudomonas aeruginosa, Rhodopirellula baltica, Vibrio cholerae, Streptococcus pneumoniae, Geobacter sulfurreducens, Trichormus variabilis, Yersinia pestis, Chloroflexus aurantiacus, Staphylococcus aureus, Neisseria meningitidis, Clostridium botulinum
+========CLUSTER 397========
+Tyrosine metabolism, and HpaB/PvcC/4-BUDH
+
+Affected bacteria: Shigella flexneri
+========CLUSTER 398========
+Gene expression
+
+Affected bacteria: Pseudomonas aeruginosa, Sinorhizobium meliloti, Rhodopirellula baltica, Geobacter sulfurreducens, Yersinia pestis, Neisseria meningitidis, Clostridium botulinum
+========CLUSTER 399========
+Uncharacterized
+
+Affected bacteria: Pseudomonas aeruginosa
+========CLUSTER 400========
+Pathogenesis, and Transmembrane beta strand
+
+Affected bacteria: Vibrio cholerae
+========CLUSTER 401========
+Cell wall biogenesis/degradation
+
+Affected bacteria: Staphylococcus aureus, Pseudomonas aeruginosa, Clostridium botulinum
+========CLUSTER 402========
+Protein metabolic process
+
+Affected bacteria: Pseudomonas aeruginosa, Rhodopirellula baltica, Trichormus variabilis, Geobacter sulfurreducens, Yersinia pestis, Chloroflexus aurantiacus, Neisseria meningitidis, Clostridium botulinum
+========CLUSTER 403========
+Pathogenesis
+
+Affected bacteria: Shigella flexneri, Salmonella enterica, Vibrio cholerae
+========CLUSTER 404========
+Histidine Phosphotransfer domain, and PAS domain
+
+Affected bacteria: Vibrio cholerae
+========CLUSTER 405========
+PAS fold-4, and CHASE3 domain
+
+Affected bacteria: Rhodopirellula baltica
+========CLUSTER 406========
+Amide biosynthetic process
+
+Affected bacteria: Pseudomonas aeruginosa, Rhodopirellula baltica, Geobacter sulfurreducens, Neisseria meningitidis, Clostridium botulinum
+========CLUSTER 407========
+Protein secretion
+
+Affected bacteria: Escherichia coli, Salmonella enterica, Shigella flexneri
+========CLUSTER 408========
+Membrane assembly, and Gram-negative porin
+
+Affected bacteria: Escherichia coli
+========CLUSTER 409========
+Ligase activity, forming carbon-nitrogen bonds
+
+Affected bacteria: Neisseria meningitidis
+========CLUSTER 410========
+Mixed, incl. Helicase HerA, central domain, and Protein of unknown function (DUF3991)
+
+Affected bacteria: Helicobacter pylori
+========CLUSTER 411========
+Aminoglycan metabolic process
+
+Affected bacteria: Clostridium botulinum
+========CLUSTER 412========
+Pilus assembly, and GspF/PilC family
+
+Affected bacteria: Vibrio cholerae
+========CLUSTER 413========
+Translation, and Cell inner membrane
+
+Affected bacteria: Rhodopirellula baltica
+========CLUSTER 414========
+Cellular amide metabolic process
+
+Affected bacteria: Pseudomonas aeruginosa, Rhodopirellula baltica, Geobacter sulfurreducens, Yersinia pestis, Neisseria meningitidis, Clostridium botulinum
+========CLUSTER 415========
+Mixed, incl. defense response, and DNA metabolic process
+
+Affected bacteria: Geobacter sulfurreducens
+========CLUSTER 416========
+Signal transduction by protein phosphorylation
+
+Affected bacteria: Chloroflexus aurantiacus, Rhodopirellula baltica, Trichormus variabilis, Vibrio cholerae
+========CLUSTER 417========
+Glucan metabolic process, and Six-hairpin glycosidase-like superfamily
+
+Affected bacteria: Trichormus variabilis
+========CLUSTER 418========
+Streptomycin biosynthesis
+
+Affected bacteria: Escherichia coli, Salmonella enterica, Pseudomonas putida, Shigella flexneri
+========CLUSTER 419========
+Motor activity
+
+Affected bacteria: Vibrio cholerae
+========CLUSTER 420========
+Mixed, incl. pilus assembly, and Vibrio cholerae toxin co-regulated pilus biosynthesis F
+
+Affected bacteria: Vibrio cholerae
+========CLUSTER 421========
+Mixed, incl. Glycoside hydrolase superfamily, and ABC transporters
+
+Affected bacteria: Chloroflexus aurantiacus
+========CLUSTER 422========
+Mixed, incl. Antiviral defense, and DNA/RNA hybrid binding
+
+Affected bacteria: Aquifex aeolicus
+========CLUSTER 423========
+Hpt domain, and Transcription regulator LuxR, C-terminal
+
+Affected bacteria: Shigella flexneri
+========CLUSTER 424========
+Small molecule metabolic process
+
+Affected bacteria: Rhodopirellula baltica, Pseudomonas putida, Streptococcus pneumoniae, Geobacter sulfurreducens, Staphylococcus aureus, Neisseria meningitidis, Clostridium botulinum, Salmonella enterica
+========CLUSTER 425========
+Carbon-sulfur lyase activity, and Homocysteine-binding domain
+
+Affected bacteria: Listeria monocytogenes
+========CLUSTER 426========
+Bacteriochlorophyll biosynthesis, and 4-vinyl reductase, 4VR
+
+Affected bacteria: Chloroflexus aurantiacus
+========CLUSTER 427========
+Extracellular region
+
+Affected bacteria: Aquifex aeolicus, Streptococcus pneumoniae, Listeria monocytogenes, Clostridium botulinum
+========CLUSTER 428========
+Oxidative phosphorylation, and 4Fe-4S dicluster domain
+
+Affected bacteria: Chloroflexus aurantiacus
+========CLUSTER 429========
+Flagellin, D0/D1 domain, and Flagellar protein FliS
+
+Affected bacteria: Pseudomonas putida
+========CLUSTER 430========
+Protein biosynthesis
+
+Affected bacteria: Rhodopirellula baltica, Neisseria meningitidis, Geobacter sulfurreducens
+========CLUSTER 431========
+Citrate cycle (TCA cycle)
+
+Affected bacteria: Geobacter sulfurreducens
+========CLUSTER 432========
+Ubiquinone
+
+Affected bacteria: Chloroflexus aurantiacus
+========CLUSTER 433========
+Fimbrium
+
+Affected bacteria: Escherichia coli
+========CLUSTER 434========
+Mixed, incl. Fatty acid metabolism, and Phosphopantetheine
+
+Affected bacteria: Rhodopirellula baltica
+========CLUSTER 435========
+Protein tyrosine kinase
+
+Affected bacteria: Rhodopirellula baltica
+========CLUSTER 436========
+Cell cycle
+
+Affected bacteria: Staphylococcus aureus
+========CLUSTER 437========
+Lipopolysaccharide biosynthesis
+
+Affected bacteria: Escherichia coli, Salmonella enterica, Neisseria meningitidis, Shigella flexneri
+========CLUSTER 438========
+tRNA-binding
+
+Affected bacteria: Pseudomonas aeruginosa, Sinorhizobium meliloti, Rhodopirellula baltica, Neisseria meningitidis
+========CLUSTER 439========
+Mixed, incl. Protein transport, and photosynthesis
+
+Affected bacteria: Salmonella enterica
+========CLUSTER 440========
+Carbohydrate metabolic process, and phosphoenolpyruvate-dependent sugar phosphotransferase system
+
+Affected bacteria: Vibrio cholerae
+========CLUSTER 441========
+Mixed, incl. ATP-grasp fold, PylC-type, and Tubulin-like
+
+Affected bacteria: Trichormus variabilis
+========CLUSTER 442========
+Aminoglycan biosynthetic process
+
+Affected bacteria: Staphylococcus aureus
+========CLUSTER 443========
+O-Antigen nucleotide sugar biosynthesis
+
+Affected bacteria: Pseudomonas aeruginosa, Pseudomonas putida, Geobacter sulfurreducens, Escherichia coli, Clostridium botulinum, Salmonella enterica
+========CLUSTER 444========
+Mixed, incl. regulation of cell shape, and cell division
+
+Affected bacteria: Clostridium botulinum
+========CLUSTER 445========
+Mixed, incl. peptidase complex, and Protein-tyrosine phosphatase, active site
+
+Affected bacteria: Rhodopirellula baltica
+========CLUSTER 446========
+Cobalamin metabolic process
+
+Affected bacteria: Clostridium botulinum
+========CLUSTER 447========
+Mixed, incl. nucleotidase activity, and uracil phosphoribosyltransferase activity
+
+Affected bacteria: Trichormus variabilis
+========CLUSTER 448========
+Carbon metabolism, and branched-chain amino acid metabolic process
+
+Affected bacteria: Geobacter sulfurreducens
+========CLUSTER 449========
+Toxin-antitoxin system
+
+Affected bacteria: Bacillus subtilis
+========CLUSTER 450========
+PAS fold
+
+Affected bacteria: Chloroflexus aurantiacus, Rhodopirellula baltica, Trichormus variabilis
+========CLUSTER 451========
+Hexose metabolic process
+
+Affected bacteria: Streptococcus pneumoniae
+========CLUSTER 452========
+HAMP (Histidine kinases, Adenylyl cyclases, Methyl binding proteins, Phosphatases) domain
+
+Affected bacteria: Chloroflexus aurantiacus, Trichormus variabilis
+========CLUSTER 453========
+Mixed, incl. lipopolysaccharide metabolic process, and protein glycosylation
+
+Affected bacteria: Geobacter sulfurreducens
+========CLUSTER 454========
+CheW-like domain
+
+Affected bacteria: Chloroflexus aurantiacus, Vibrio cholerae
+========CLUSTER 455========
+Mixed, incl. Pentose phosphate pathway, and Starch and sucrose metabolism
+
+Affected bacteria: Vibrio cholerae
+========CLUSTER 456========
+Mixed, incl. sulfotransferase activity, and calcium ion binding
+
+Affected bacteria: Salmonella enterica
+========CLUSTER 457========
+Polyketide sugar unit biosynthesis, and Bacterial membrane protein YfhO
+
+Affected bacteria: Listeria monocytogenes
+========CLUSTER 458========
+Bacterial flagellum, and bacterial-type flagellum hook
+
+Affected bacteria: Pseudomonas putida
+========CLUSTER 459========
+Mixed, incl. Biosynthesis of siderophore group nonribosomal peptides, and ABC transporter transmembrane region
+
+Affected bacteria: Yersinia pestis
+========CLUSTER 460========
+Starch and sucrose metabolism, and Immunoglobulin E-set
+
+Affected bacteria: Chloroflexus aurantiacus
+========CLUSTER 461========
+Organic cyclic compound biosynthetic process, and Biosynthesis of amino acids
+
+Affected bacteria: Streptococcus pneumoniae
+========CLUSTER 462========
+Cell wall organization or biogenesis
+
+Affected bacteria: Bacillus subtilis, Staphylococcus aureus, Clostridium botulinum
+========CLUSTER 463========
+Mixed, incl. pilus organization, and cell adhesion
+
+Affected bacteria: Shigella flexneri
+========CLUSTER 464========
+OmpR/PhoB-type DNA-binding domain
+
+Affected bacteria: Shigella flexneri, Trichormus variabilis, Vibrio cholerae
+========CLUSTER 465========
+Transmembrane beta strand
+
+Affected bacteria: Escherichia coli
+========CLUSTER 466========
+Biosynthetic process
+
+Affected bacteria: Pseudomonas aeruginosa, Rhodopirellula baltica, Pseudomonas putida, Streptococcus pneumoniae, Geobacter sulfurreducens, Yersinia pestis, Staphylococcus aureus, Neisseria meningitidis, Clostridium botulinum, Salmonella enterica
+========CLUSTER 467========
+Aminoglycan biosynthetic process, and cytokinesis
+
+Affected bacteria: Staphylococcus aureus
+========CLUSTER 468========
+Bacterial-type flagellum basal body, rod
+
+Affected bacteria: Pseudomonas putida, Vibrio cholerae
+========CLUSTER 469========
+Mixed, incl. Pertussis, and protein folding chaperone
+
+Affected bacteria: Pseudomonas aeruginosa
+========CLUSTER 470========
+GDP-mannose metabolic process
+
+Affected bacteria: Pseudomonas putida
+========CLUSTER 471========
+Condensation domain, and Saccharopine dehydrogenase NADP binding domain
+
+Affected bacteria: Yersinia pestis
+========CLUSTER 472========
+Ribonuclease activity, and Cell inner membrane
+
+Affected bacteria: Clostridium botulinum
+========CLUSTER 473========
+Survival protein SurE, and purine nucleoside triphosphate catabolic process
+
+Affected bacteria: Rhodopirellula baltica
+========CLUSTER 474========
+Antiviral defense
+
+Affected bacteria: Escherichia coli
+========CLUSTER 475========
+Shigellosis
+
+Affected bacteria: Shigella flexneri
+========CLUSTER 476========
+Peptide transport
+
+Affected bacteria: Escherichia coli, Staphylococcus aureus, Salmonella enterica, Shigella flexneri
+========CLUSTER 477========
+Protein domain specific binding
+
+Affected bacteria: Chloroflexus aurantiacus
+========CLUSTER 478========
+Aminoacyl-tRNA synthetase, class Ia, anticodon-binding
+
+Affected bacteria: Rhodopirellula baltica
+========CLUSTER 479========
+Xylene degradation
+
+Affected bacteria: Pseudomonas putida
+========CLUSTER 480========
+Biological regulation
+
+Affected bacteria: Rhodopirellula baltica, Vibrio cholerae
+========CLUSTER 481========
+Selenocompound metabolism
+
+Affected bacteria: Pseudomonas putida
+========CLUSTER 482========
+Sulfur metabolism
+
+Affected bacteria: Pseudomonas putida
+========CLUSTER 483========
+Nucleotide-diphospho-sugar transferases
+
+Affected bacteria: Trichormus variabilis, Shigella flexneri
+========CLUSTER 484========
+Mixed, incl. Male sterility, NAD-binding, and Ring hydroxylating alpha subunit (catalytic domain)
+
+Affected bacteria: Rhodopirellula baltica
+========CLUSTER 485========
+Cellular aromatic compound metabolic process
+
+Affected bacteria: Pseudomonas aeruginosa, Pseudomonas putida, Staphylococcus aureus, Neisseria meningitidis, Clostridium botulinum
+========CLUSTER 486========
+Carbon metabolism
+
+Affected bacteria: Geobacter sulfurreducens
+========CLUSTER 487========
+EAL domain superfamily
+
+Affected bacteria: Vibrio cholerae
+========CLUSTER 488========
+Mixed, incl. guanosine-containing compound metabolic process, and Survival protein SurE
+
+Affected bacteria: Rhodopirellula baltica
+========CLUSTER 489========
+Serine/threonine-protein kinase, active site
+
+Affected bacteria: Rhodopirellula baltica
+========CLUSTER 490========
+Signal
+
+Affected bacteria: Escherichia coli, Listeria monocytogenes
+========CLUSTER 491========
+Orc1-like, AAA ATPase domain
+
+Affected bacteria: Trichormus variabilis
+========CLUSTER 492========
+Organic cyclic compound metabolic process
+
+Affected bacteria: Pseudomonas aeruginosa, Pseudomonas putida, Staphylococcus aureus, Neisseria meningitidis, Clostridium botulinum
+========CLUSTER 493========
+Pilus organization, and pilus
+
+Affected bacteria: Pseudomonas aeruginosa
+========CLUSTER 494========
+Glutathione S-transferase, C-terminal, and ChaC-like protein
+
+Affected bacteria: Pseudomonas putida
+========CLUSTER 495========
+Transcription termination, and RNA polymerase
+
+Affected bacteria: Pseudomonas aeruginosa
+========CLUSTER 496========
+tRNA aminoacylation for protein translation
+
+Affected bacteria: Rhodopirellula baltica, Neisseria meningitidis
+========CLUSTER 497========
+Mixed, incl. S-adenosyl-L-methionine-dependent methyltransferase, and Arginine and proline metabolism
+
+Affected bacteria: Helicobacter pylori
+========CLUSTER 498========
+Phosphorus metabolic process
+
+Affected bacteria: Pseudomonas putida, Vibrio cholerae, Trichormus variabilis, Staphylococcus aureus, Neisseria meningitidis, Salmonella enterica
+========CLUSTER 499========
+Peptide transmembrane transporter activity
+
+Affected bacteria: Staphylococcus aureus
+========CLUSTER 500========
+Homologous recombination
+
+Affected bacteria: Staphylococcus aureus
+========CLUSTER 501========
+Septation, and Cell cycle protein GpsB
+
+Affected bacteria: Streptococcus pneumoniae
+========CLUSTER 502========
+DNA/RNA hybrid binding, and Cse2 superfamily
+
+Affected bacteria: Geobacter sulfurreducens
+========CLUSTER 503========
+Mixed, incl. nucleotide salvage, and nucleotidase activity
+
+Affected bacteria: Salmonella enterica
+========CLUSTER 504========
+Mixed, incl. Pertactin, and RHS Repeat
+
+Affected bacteria: Escherichia coli
+========CLUSTER 505========
+Nucleotide metabolic process
+
+Affected bacteria: Rhodopirellula baltica, Pseudomonas putida, Vibrio cholerae, Neisseria meningitidis, Salmonella enterica, Shigella flexneri
+========CLUSTER 506========
+Motif C-terminal to PAS motifs (likely to contribute to PAS structural domain)
+
+Affected bacteria: Chloroflexus aurantiacus, Rhodopirellula baltica, Trichormus variabilis
+========CLUSTER 507========
+Nucleotidase activity, and UMP salvage
+
+Affected bacteria: Salmonella enterica
+========CLUSTER 508========
+Tyrosine metabolism
+
+Affected bacteria: Pseudomonas putida
+========CLUSTER 509========
+Macromolecule biosynthetic process
+
+Affected bacteria: Neisseria meningitidis, Geobacter sulfurreducens, Clostridium botulinum
+========CLUSTER 510========
+Mixed, incl. amino sugar metabolic process, and GlcNAc-PI de-N-acetylase
+
+Affected bacteria: Rhodopirellula baltica
+========CLUSTER 511========
+Mixed, incl. Phage protein GP46, and Baseplate protein GpP
+
+Affected bacteria: Pseudomonas putida
+========CLUSTER 512========
+Secreted
+
+Affected bacteria: Listeria monocytogenes
+========CLUSTER 513========
+EAL domain
+
+Affected bacteria: Vibrio cholerae
+========CLUSTER 514========
+Translocase
+
+Affected bacteria: Chloroflexus aurantiacus
+========CLUSTER 515========
+Biosynthesis of siderophore group nonribosomal peptides
+
+Affected bacteria: Yersinia pestis
+========CLUSTER 516========
+Glucan biosynthetic process
+
+Affected bacteria: Trichormus variabilis
+========CLUSTER 517========
+GDP-mannose metabolic process, and O antigen metabolic process
+
+Affected bacteria: Pseudomonas aeruginosa
+========CLUSTER 518========
+Mixed, incl. Selenium, and 4Fe-4S dicluster domain
+
+Affected bacteria: Aquifex aeolicus
+========CLUSTER 519========
+Pyrimidine metabolism
+
+Affected bacteria: Rhodopirellula baltica, Pseudomonas putida, Trichormus variabilis, Salmonella enterica, Shigella flexneri
+========CLUSTER 520========
+Translation elongation factor activity, and Initiation factor
+
+Affected bacteria: Sinorhizobium meliloti
+========CLUSTER 521========
+Nicotinate and nicotinamide metabolism, and Pyrimidine metabolism
+
+Affected bacteria: Salmonella enterica
+========CLUSTER 522========
+Lipopolysaccharide core region metabolic process, and ADP-L-glycero-beta-D-manno-heptose metabolic process
+
+Affected bacteria: Shigella flexneri
+========CLUSTER 523========
+Flagellar assembly, and methyl accepting chemotaxis protein complex
+
+Affected bacteria: Escherichia coli
+========CLUSTER 524========
+Regulation of cell shape, and FtsZ-dependent cytokinesis
+
+Affected bacteria: Clostridium botulinum
+========CLUSTER 525========
+L-methionine salvage, and Quorum sensing
+
+Affected bacteria: Escherichia coli
+========CLUSTER 526========
+Propanoate metabolism
+
+Affected bacteria: Geobacter sulfurreducens
+========CLUSTER 527========
+Response to iron(III) ion, and UDP-D-xylose metabolic process
+
+Affected bacteria: Escherichia coli
+========CLUSTER 528========
+Bacterial-type flagellum organization, and motor activity
+
+Affected bacteria: Vibrio cholerae
+========CLUSTER 529========
+cheY-homologous receiver domain
+
+Affected bacteria: Rhodopirellula baltica, Vibrio cholerae, Trichormus variabilis, Chloroflexus aurantiacus, Shigella flexneri
+========CLUSTER 530========
+Mixed, incl. CHASE domain, and Cache domain
+
+Affected bacteria: Chloroflexus aurantiacus
+========CLUSTER 531========
+DNA recombination
+
+Affected bacteria: Pseudomonas aeruginosa
+========CLUSTER 532========
+Interspecies interaction between organisms
+
+Affected bacteria: Bacillus subtilis, Salmonella enterica, Trichormus variabilis, Vibrio cholerae
+========CLUSTER 533========
+Primary metabolic process
+
+Affected bacteria: Pseudomonas aeruginosa, Sinorhizobium meliloti, Rhodopirellula baltica, Pseudomonas putida, Streptococcus pneumoniae, Geobacter sulfurreducens, Trichormus variabilis, Chloroflexus aurantiacus, Staphylococcus aureus, Neisseria meningitidis, Clostridium botulinum, Listeria monocytogenes, Salmonella enterica
+========CLUSTER 534========
+His Kinase A (phospho-acceptor) domain, and Transcriptional regulatory protein WalR-like
+
+Affected bacteria: Chloroflexus aurantiacus
+========CLUSTER 535========
+Regulation of anatomical structure morphogenesis
+
+Affected bacteria: Neisseria meningitidis, Clostridium botulinum
+========CLUSTER 536========
+One-carbon metabolic process, and mercury ion binding
+
+Affected bacteria: Vibrio cholerae
+========CLUSTER 537========
+Regulation of cell shape
+
+Affected bacteria: Staphylococcus aureus, Streptococcus pneumoniae, Pseudomonas aeruginosa, Clostridium botulinum
+========CLUSTER 538========
+Mixed, incl. Flagellar assembly, and signal transduction
+
+Affected bacteria: Shigella flexneri
+========CLUSTER 539========
+Mixed, incl. Microbial metabolism in diverse environments, and Phosphotransferase system (PTS)
+
+Affected bacteria: Streptococcus pneumoniae
+========CLUSTER 540========
+Mixed, incl. NADH:ubiquinone oxidoreductase, 30kDa subunit, conserved site, and NADH-quinone oxidoreductase, chain I
+
+Affected bacteria: Chloroflexus aurantiacus
+========CLUSTER 541========
+SOS response
+
+Affected bacteria: Clostridium botulinum
+========CLUSTER 542========
+Protein-containing complex
+
+Affected bacteria: Sinorhizobium meliloti, Rhodopirellula baltica, Geobacter sulfurreducens, Yersinia pestis, Staphylococcus aureus, Neisseria meningitidis, Clostridium botulinum
+========CLUSTER 543========
+Quinone, and NADH-quinone oxidoreductase, chain M/4
+
+Affected bacteria: Chloroflexus aurantiacus
+========CLUSTER 544========
+Protein transport
+
+Affected bacteria: Escherichia coli, Bacillus subtilis, Salmonella enterica, Shigella flexneri
+========CLUSTER 545========
+Membrane
+
+Affected bacteria: Chloroflexus aurantiacus
+========CLUSTER 546========
+Mixed, incl. Glucose permease domain IIB, and amino sugar metabolic process
+
+Affected bacteria: Listeria monocytogenes
+========CLUSTER 547========
+Mixed, incl. DNA restriction-modification system, and Toxin
+
+Affected bacteria: Trichormus variabilis
+========CLUSTER 548========
+Cell wall/choline-binding repeat, and Trypsin
+
+Affected bacteria: Streptococcus pneumoniae
+========CLUSTER 549========
+Intrinsic component of cell outer membrane
+
+Affected bacteria: Escherichia coli
+========CLUSTER 550========
+2-Oxocarboxylic acid metabolism
+
+Affected bacteria: Geobacter sulfurreducens
+========CLUSTER 551========
+Ribosomal subunit
+
+Affected bacteria: Pseudomonas aeruginosa, Sinorhizobium meliloti, Rhodopirellula baltica, Geobacter sulfurreducens, Yersinia pestis, Aquifex aeolicus, Neisseria meningitidis
+========CLUSTER 552========
+Intracellular
+
+Affected bacteria: Pseudomonas aeruginosa, Sinorhizobium meliloti, Rhodopirellula baltica, Pseudomonas putida, Geobacter sulfurreducens, Yersinia pestis, Staphylococcus aureus, Neisseria meningitidis, Clostridium botulinum
+========CLUSTER 553========
+PAS domain, and HTH domain AraC-type, conserved site
+
+Affected bacteria: Chloroflexus aurantiacus
+========CLUSTER 554========
+Mixed, incl. peptidyl-histidine modification, and Sensory transduction
+
+Affected bacteria: Salmonella enterica
+========CLUSTER 555========
+Purine-containing compound salvage, and 5-nucleotidase
+
+Affected bacteria: Pseudomonas putida
+========CLUSTER 556========
+Protein import, and YbgF, trimerisation domain
+
+Affected bacteria: Pseudomonas putida
+========CLUSTER 557========
+Organelle
+
+Affected bacteria: Pseudomonas aeruginosa, Neisseria meningitidis, Geobacter sulfurreducens, Clostridium botulinum
+========CLUSTER 558========
+Small molecule biosynthetic process
+
+Affected bacteria: Pseudomonas aeruginosa, Geobacter sulfurreducens, Staphylococcus aureus, Neisseria meningitidis, Clostridium botulinum, Listeria monocytogenes
+========CLUSTER 559========
+One-carbon metabolism, and Thymidylate synthase
+
+Affected bacteria: Listeria monocytogenes
+========CLUSTER 560========
+beta-Lactam resistance
+
+Affected bacteria: Streptococcus pneumoniae
+========CLUSTER 561========
+Nucleic acid metabolic process
+
+Affected bacteria: Clostridium botulinum
+========CLUSTER 562========
+Catalytic activity, acting on a protein
+
+Affected bacteria: Chloroflexus aurantiacus, Trichormus variabilis
+========CLUSTER 563========
+Peptide biosynthetic process
+
+Affected bacteria: Yersinia pestis, Pseudomonas aeruginosa, Neisseria meningitidis
+========CLUSTER 564========
+Phosphotransferase system (PTS), and carbohydrate metabolic process
+
+Affected bacteria: Clostridium botulinum
+========CLUSTER 565========
+Archaeal or bacterial-type flagellum-dependent cell motility
+
+Affected bacteria: Bacillus subtilis, Pseudomonas putida, Vibrio cholerae, Escherichia coli, Clostridium botulinum
+========CLUSTER 566========
+Polysaccharide biosynthetic process
+
+Affected bacteria: Escherichia coli, Salmonella enterica, Geobacter sulfurreducens, Shigella flexneri
+========CLUSTER 567========
+Secretion, and protein targeting
+
+Affected bacteria: Salmonella enterica
+========CLUSTER 568========
+Polysaccharide biosynthetic process, and peptidyl-tyrosine dephosphorylation
+
+Affected bacteria: Clostridium botulinum
+========CLUSTER 569========
+HPT domain superfamily
+
+Affected bacteria: Chloroflexus aurantiacus, Rhodopirellula baltica, Trichormus variabilis, Vibrio cholerae
+========CLUSTER 570========
+Bacterial invasion of epithelial cells
+
+Affected bacteria: Salmonella enterica, Shigella flexneri
+========CLUSTER 571========
+Signal sequence binding, and rRNA-binding
+
+Affected bacteria: Neisseria meningitidis
+========CLUSTER 572========
+Nucleobase-containing small molecule biosynthetic process
+
+Affected bacteria: Salmonella enterica, Pseudomonas putida
+========CLUSTER 573========
+Mixed, incl. Glycosyltransferase 2-like, and Domain of unknown function DUF4214
+
+Affected bacteria: Pseudomonas putida
+========CLUSTER 574========
+Quorum sensing
+
+Affected bacteria: Staphylococcus aureus
+========CLUSTER 575========
+Aminoacyl-tRNA biosynthesis
+
+Affected bacteria: Rhodopirellula baltica, Neisseria meningitidis
+========CLUSTER 576========
+Restriction system
+
+Affected bacteria: Bacillus subtilis
+========CLUSTER 577========
+Macromolecule modification
+
+Affected bacteria: Chloroflexus aurantiacus, Trichormus variabilis
+========CLUSTER 578========
+Mixed, incl. Signal, and Coiled coil
+
+Affected bacteria: Listeria monocytogenes
+========CLUSTER 579========
+Cytokinesis
+
+Affected bacteria: Streptococcus pneumoniae
+========CLUSTER 580========
+Tetrapyrrole biosynthetic process
+
+Affected bacteria: Clostridium botulinum
+========CLUSTER 581========
+Regulation of anatomical structure morphogenesis, and Cell cycle
+
+Affected bacteria: Streptococcus pneumoniae
+========CLUSTER 582========
+Nucleotide-sugar metabolic process
+
+Affected bacteria: Salmonella enterica, Pseudomonas putida
+========CLUSTER 583========
+PAC motif, and negative regulation of phosphorylation
+
+Affected bacteria: Trichormus variabilis
+========CLUSTER 584========
+Energy derivation by oxidation of organic compounds
+
+Affected bacteria: Chloroflexus aurantiacus
+========CLUSTER 585========
+Peptidyl-amino acid modification
+
+Affected bacteria: Rhodopirellula baltica, Trichormus variabilis, Vibrio cholerae
+========CLUSTER 586========
+Seadornavirus VP7, and WD40 repeat
+
+Affected bacteria: Rhodopirellula baltica
+========CLUSTER 587========
+Coiled coil
+
+Affected bacteria: Chloroflexus aurantiacus, Rhodopirellula baltica, Trichormus variabilis
+========CLUSTER 588========
+Cell periphery
+
+Affected bacteria: Chloroflexus aurantiacus, Trichormus variabilis
+========CLUSTER 589========
+Cellular protein modification process
+
+Affected bacteria: Chloroflexus aurantiacus, Rhodopirellula baltica, Trichormus variabilis, Vibrio cholerae
+========CLUSTER 590========
+Mixed, incl. Glycosyltransferase like family 2, and nodulation
+
+Affected bacteria: Geobacter sulfurreducens
+========CLUSTER 591========
+Nucleic acid binding
+
+Affected bacteria: Pseudomonas aeruginosa, Sinorhizobium meliloti, Rhodopirellula baltica, Trichormus variabilis, Geobacter sulfurreducens, Yersinia pestis, Neisseria meningitidis
+========CLUSTER 592========
+Glycosyl hydrolase, all-beta, and Alpha-glucan phosphorylase
+
+Affected bacteria: Trichormus variabilis
+========CLUSTER 593========
+Mixed, incl. Signal, and Helix-turn-helix domain
+
+Affected bacteria: Listeria monocytogenes
+========CLUSTER 594========
+EAL domain, and diguanylate cyclase activity
+
+Affected bacteria: Escherichia coli
+========CLUSTER 595========
+Virulence
+
+Affected bacteria: Yersinia pestis, Shigella flexneri, Salmonella enterica, Vibrio cholerae
+========CLUSTER 596========
+Response to virus, and Haemolytic domain
+
+Affected bacteria: Aquifex aeolicus
+###################################################
+###################################################
+###################################################
+SORTING BACTERIA BY RELEVANCE TO 'Flagellum'...
+Escherichia coli
+Neisseria meningitidis
+Yersinia pestis
+Bacillus subtilis
+Sinorhizobium meliloti
+Salmonella enterica
+Pseudomonas putida
+Shigella flexneri
+Streptococcus pneumoniae
+Geobacter sulfurreducens
+Aquifex aeolicus
+Pseudomonas aeruginosa
+Clostridium botulinum
+Staphylococcus aureus
+Trichormus variabilis
+Vibrio cholerae
+Helicobacter pylori
+Chloroflexus aurantiacus
+Rhodopirellula baltica
+Listeria monocytogenes

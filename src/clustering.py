@@ -147,7 +147,7 @@ class Retriever:
         self.__bacterium_index_to_function_indices = {self.__bacterium_to_index[bacterium]: set(map(lambda f: self.__function_to_index[f], functions)) for bacterium, functions in bacteria_functions.items()}
         self.__inverted_index = {self.__function_to_index[function]: set(map(lambda b: self.__bacterium_to_index[b], bacteria)) for function, bacteria in functions_bacteria.items()}
 
-        self.__tfidf = np.matmul(self.__get_bacteria_frequencies().reshape((-1, 1)), self.__get_inverse_document_frequencies().reshape((1,-1)))
+        self.__tfidf = np.matmul(self.__get_inverse_document_frequencies().reshape((-1,1)), self.__get_bacteria_frequencies().reshape((1, -1)))
 
     def __get_bacteria_frequencies(self) -> np.ndarray:
         number_of_bacteria = len(self.__bacterium_to_index)
@@ -180,7 +180,8 @@ class Retriever:
         return np.log(number_of_clusters + 1) - np.log(cluster_counts + 1)
 
     def __assign_score_to_cluster(self, cluster: list[int]) -> float:
-        tfidf_slice = self.__tfidf[cluster, :]
+        affected_bacteria = list(set().union(*(self.__inverted_index[idx] for idx in cluster)))
+        tfidf_slice = self.__tfidf[affected_bacteria][:, cluster]
 
         second, first = self.__scoring_method.split("-")
 
