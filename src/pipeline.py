@@ -13,7 +13,9 @@ class Pipeline:
     def __init__(self, model_name: str):
         self.__IO_handler = IOHandler(self.__get_repo_path())
         self.__bacteria_functions = self.__IO_handler.get_bacteria_functions()
+        self.__bacteria = list(self.__bacteria_functions.keys())
         self.__functions_bacteria = self.__IO_handler.get_bacteria_inverted_document()
+        self.__functions = list(self.__bacteria_functions.keys())
 
         self.__model_name = model_name
         # Don't load the model itself until needed; this is a bit time-consuming
@@ -42,7 +44,7 @@ class Pipeline:
 
         pairs = map(
             lambda function: (function, self.__model_handler.get_classification_embedding(function).flatten()),
-            self.__functions_bacteria.keys()
+            self.__functions
         )
 
         d = dict(pairs)
@@ -53,3 +55,9 @@ class Pipeline:
 
     def get_function_embeddings(self) -> dict[str, Tensor]:
         return self.__function_embeddings
+
+    def get_functions(self) -> list[str]:
+        return self.__functions
+
+    def get_bacteria(self) -> list[str]:
+        return self.__bacteria

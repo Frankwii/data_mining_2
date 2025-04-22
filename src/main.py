@@ -1,3 +1,6 @@
+import numpy as np
+
+from clustering import KMeans
 from pipeline import Pipeline
 
 if __name__ == "__main__":
@@ -6,4 +9,10 @@ if __name__ == "__main__":
 
     pipeline = Pipeline(model_name)
 
-    print(pipeline.get_function_embeddings())
+    function_embeddings = pipeline.get_function_embeddings()
+
+    clusterer = KMeans(100)
+
+    for cluster in clusterer.cluster_functions_formatted(function_embeddings):
+        print("\n".join(cluster))
+        print("================")
