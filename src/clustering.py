@@ -201,4 +201,4 @@ class Retriever:
                 return float(intermediate.min())
 
     def sort_clusters(self):
-        return sorted(self.__function_clusters, key=self.__assign_score_to_cluster)
+        return sorted(self.__function_clusters, key=self.__assign_score_to_cluster, reverse=True)

@@ -34,7 +34,7 @@ if __name__ == "__main__":
     clusterer = HDBSCAN(min_cluster_size=2)
     # clusterer = KMeans(100)
 
-    retriever = pipeline.instantiate_retriever(clusterer, "min-min")
+    retriever = pipeline.instantiate_retriever(clusterer, "min-max")
 
     sorted_clusters = retriever.sort_clusters()
 
