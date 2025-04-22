@@ -4,6 +4,7 @@ import numpy as np
 from typing import Literal, Optional
 from torch import Tensor
 
+from clustering import ClusteringAlgoritm, KMeans, Retriever, ScoringMethod
 from file_handling import IOHandler
 from pathlib import Path
 
@@ -28,7 +29,7 @@ class Pipeline:
         self.__bacteria_functions = self.__IO_handler.get_bacteria_functions()
         self.__bacteria = list(self.__bacteria_functions.keys())
         self.__functions_bacteria = self.__IO_handler.get_bacteria_inverted_document()
-        self.__functions = list(self.__bacteria_functions.keys())
+        self.__functions = list(self.__functions_bacteria.keys())
 
         self.__model_name = model_name
         # Don't load the model itself until needed; this is a bit time-consuming
@@ -85,6 +86,23 @@ class Pipeline:
     def get_bacteria(self) -> list[str]:
         return self.__bacteria
 
+    def get_affected_bacteria(self, bacterium: str) -> set[str]:
+        return self.__functions_bacteria[bacterium]
+
+    def get_all_affected_bacteria(self, bacteria: list[str]) -> set[str]:
+        return set().union(*(self.get_affected_bacteria(bacterium) for bacterium in bacteria))
+
+    def instantiate_retriever(self, clustering_algorithm: ClusteringAlgoritm, scoring_method: ScoringMethod) -> Retriever:
+        embeddings = np.array(list(self.__function_embeddings.values()))
+        clusters = clustering_algorithm.cluster(embeddings)
+        return Retriever(
+            self.__bacteria_functions,
+            self.__functions_bacteria,
+            clusters,
+            scoring_method = scoring_method
+        )
+
+
     def function_semantic_search(self, query: str) -> list[str]:
         self.__load_model_handler()
         embedding_query = self.__model_handler.get_classification_embedding(query).flatten()
@@ -94,3 +112,33 @@ class Pipeline:
             key=lambda k: self.__similarity_function(np.array(self.__function_embeddings[k]), embedding_query),
             reverse=True
         )
+
+    def bacterium_semantic_search(self, query: str, aggregation: Literal["min", "avg", "max"] = "min") -> list[tuple[str, float]]:
+        self.__load_model_handler()
+        embedding_query = self.__model_handler.get_classification_embedding(query).flatten().numpy()
+
+        bacterium_scores = {}
+
+        for bacterium in self.__bacteria_functions.keys():
+            similarities = np.zeros(len(self.__bacteria_functions[bacterium]))
+            for idx, function in enumerate(self.__bacteria_functions[bacterium]):
+                similarity = self.__similarity_function(
+                    self.__function_embeddings[function].numpy(), embedding_query
+                )
+                similarities[idx] = similarity
+
+            match aggregation:
+                case "min":
+                    value = similarities.min()
+                case "avg":
+                    value = similarities.mean()
+                case "max":
+                    value = similarities.max()
+                case _:
+                    raise ValueError(f"Unsupported aggregation method: {aggregation}")
+
+            bacterium_scores[bacterium] = float(value)
+        
+        sorted_bacteria_dict = dict(sorted(bacterium_scores.items(), key=lambda item: item[1], reverse=True))
+
+        return list(sorted_bacteria_dict.items())
