@@ -1,0 +1,6 @@
+numpy
+matplotlib
+pyqt6
+umap
+torch
+transformers
